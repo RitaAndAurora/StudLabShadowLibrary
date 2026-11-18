@@ -1,0 +1,36 @@
+0 LDCad shadow info for "Minifig Torso Half Giant with Arms"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0,14.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 14.5] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [40.121,37.425,-16.223,-0.003,-0.505,-0.863,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=40.121 37.425 -16.223] [ori=0.9079 0.0028 -0.4191 -0.3629 0.5052 -0.783 0.2095 0.863 0.4597]
+0 //StudLab seat [-40.121,37.425,-16.223,0.003,-0.505,-0.863,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=-40.121 37.425 -16.223] [ori=0.9079 -0.0028 0.4191 0.3629 0.5052 -0.783 -0.2095 0.863 0.4597]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 7 2] [center=false] [pos=20 9.5 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 7 2] [center=false] [pos=-20 9.5 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=20 9.5 0] [ori=0 1 0 -0.7934 0 -0.6088 -0.6088 0 0.7934]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2.5 16] [center=false] [slide=true] [pos=36.2 31.311 -9.822] [ori=-0.908 0.405 -0.1076 0.3629 0.6315 -0.6852 -0.2095 -0.6612 -0.7204]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=36.2 31.311 -9.822] [ori=0.9079 0.405 0.1076 -0.3629 0.6315 0.6852 0.2095 -0.6612 0.7204]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=40.119 36.996 -16.957] [ori=0.9079 0.0028 -0.4191 -0.3629 0.5052 -0.783 0.2095 0.863 0.4597]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=-20 9.5 0] [ori=0 -1 0 0.7934 0 -0.6088 0.6088 0 0.7934]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2.5 16] [center=false] [slide=true] [pos=-36.2 31.311 -9.822] [ori=-0.908 -0.405 0.1076 -0.3629 0.6315 -0.6852 0.2095 -0.6612 -0.7204]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=-36.2 31.311 -9.822] [ori=0.9079 -0.405 -0.1076 0.3629 0.6315 0.6852 -0.2095 -0.6612 0.7204]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-40.119 36.996 -16.957] [ori=0.9079 -0.0028 0.4191 0.3629 0.5052 -0.783 -0.2095 0.863 0.4597]

@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Fabuland Axe"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=2 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [5.0,-52.0,0.0,1.0,0.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=5 -52 0] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 49] [center=true] [slide=true] [pos=0 7.5 0] [ori=1 0 0 0 1 0 0 0 1]

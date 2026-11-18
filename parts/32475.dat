@@ -1,0 +1,29 @@
+0 LDCad shadow info for "Constraction Foot 3 x 6 x 2.333 with Rounded Ball Socket"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=3 studs=studlab antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=estimated
+0 //StudLab seat [0.0,14.465,-49.054,0.0,-0.353,0.936,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 11] [center=true] [slide=true] [pos=0 12.522 -43.908] [ori=0 0 1 -0.935 0.353 0 -0.353 -0.935 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [12.0,0.0,0.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 4] [center=false] [slide=true] [pos=12 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 //StudLab seat [-16.0,0.0,0.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 4] [center=false] [slide=true] [pos=-16 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=-20 40 20] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=-30 40 -20] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=20 40 20] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=30 40 -20] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=-10 40 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=20 40 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=techBallJnt] [gender=F] [bounding=sph 12.7] [placement=free] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]

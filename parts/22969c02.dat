@@ -1,0 +1,14 @@
+0 LDCad shadow info for "~Wheel 56 x 46 Technic Racing w Tyre 61/ 41 x 54 Power Puller (Obsolete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 20 12] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-17.32 -10 12] [ori=0.5 0 0.866 -0.866 0 0.5 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=17.32 -10 12] [ori=0.5 0 -0.866 0.866 0 0.5 0 -1 0]
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 25] [center=false] [slide=true] [pos=0 0 15] [ori=-0.866 0 0.5 0.5 0 0.866 0 1 0]

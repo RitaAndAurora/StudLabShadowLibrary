@@ -1,0 +1,24 @@
+0 LDCad shadow info for "Minifig Robot Leg 1 x 2 x 2.333 with Pin"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,0.0,10.0,0.0,0.0,1.0,6.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 6] [center=false] [pos=0 0 4] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,46.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 46 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,46.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 46 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=0 0 0] [ori=-1 0 0 -0 0 1 -0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 10] [center=true] [slide=true] [pos=0 41 10] [ori=1 0 0 0 1 0 0 0 1]

@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Duplo Cone 2 x 2 x 2 Square Base without Bottom Tube with Black Stripes Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=none antistuds=studlab printof=47408.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,-1.5,0.0,0.0,1.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 4  R 9 11] [center=true] [slide=true] [pos=0 -3.5 0] [ori=1 0 0 0 1 0 0 0 1]

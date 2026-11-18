@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Windscreen 4 x 7 x 1.667 with SW LightGrey/DarkGrey Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=2 studs=none antistuds=studlab printof=30372.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-30.0,38.0,-120.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 38 -120] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,38.0,-120.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 38 -120] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=4 8 4] [radius=0] [center=true] [pos=-30 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=4 8 4] [radius=0] [center=true] [pos=30 0 0] [ori=0 1 0 -1 0 0 0 0 1]

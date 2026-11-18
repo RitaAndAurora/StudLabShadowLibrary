@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Roadsign Wide Rectangle with Sticker Black Train Logo"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=studlab antistuds=shadow printof=3897.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=estimated
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0,10.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 10] [center=true] [slide=true] [pos=0 -5 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,8.0,-10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 6] [center=false] [pos=0 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,8.0,10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 6] [center=false] [pos=0 8 10] [ori=1 0 0 0 1 0 0 0 1]

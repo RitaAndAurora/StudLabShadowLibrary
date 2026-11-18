@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Boat Hull Floating 28 x 8 Bottom"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=boat] [gender=F] [bounding=box 60 20 160] [center=false] [pos=0 24 100] [ori=1 0 0 0 1 0 0 0 1]

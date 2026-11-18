@@ -1,0 +1,14 @@
+0 LDCad shadow info for "Minifig Arm Left with Lavender Long Gloves, Silver Bracelet Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none printof=16001.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2  _L 6 5] [center=false] [pos=0 0 0] [ori=-0 1 0 -1 0 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2.5 15] [center=false] [pos=5 18.901 -9.9] [ori=-1 0 0 -0 0.7071 -0.7071 -0 -0.7071 -0.7071]

@@ -1,0 +1,20 @@
+0 LDCad shadow info for "Constraction Limb 9 Straight with Middle Ball Joint"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=4 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 40] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -20] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -40] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=A 6 22.5  R 6 1  R 8 1.5  R 10 1  R 11 1  R 11.5 1  R 12 4  R 12.5 1.5  R 12 3.5  R 11.5 1  R 11 1  R 10 1  R 8 2] [center=true] [slide=true] [pos=0 0 -69] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 13] [placement=free] [center=false] [pos=0 0 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 12.5] [placement=free] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 13] [placement=free] [center=false] [pos=0 0 80.5] [ori=1 0 0 0 1 0 0 0 1]

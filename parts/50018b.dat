@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Minifig Tool Impact Wrench with Opposing Studs with Angled Ribbed Handle and Rear Bar Handle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=2 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [4.0,-15.534,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=4 -15.534 0] [ori=0 -1 0 -0.2588 0 0.9659 -0.9659 0 -0.2588]
+0 //StudLab seat [-4.0,-15.534,0.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-4 -15.534 0] [ori=0 1 0 0.2588 0 0.9659 0.9659 0 -0.2588]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 15.5] [center=true] [slide=true] [pos=0 -19.993 -16.642] [ori=0 0 1 0.966 0.259 0 -0.259 0.966 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 15.5] [center=true] [slide=true] [pos=0 -0.25 0] [ori=1 0 0 0 1 0 0 0 1]

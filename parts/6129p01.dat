@@ -1,0 +1,25 @@
+0 LDCad shadow info for "~Animal Dragon Body Right with Metallic Gold Oriental Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=shadow printof=6129.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-20.0,104.0,-50.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-20 104 -50] [ori=1 0 0 -0 1 0 -0 0 1]
+0 //StudLab seat [-20.0,104.0,-30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-20 104 -30] [ori=1 0 0 -0 1 0 -0 0 1]
+0 //StudLab seat [-20.0,104.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-20 104 -10] [ori=1 0 0 -0 1 0 -0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-10 14 -77] [ori=-0 1 0 -1 0 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dragon] [gender=M] [caps=none] [secs=R 12 32] [center=true] [pos=0 30 -4] [ori=-0 1 0 -1 0 0 -0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=dragonHead] [genderOfs=M] [seq=22] [radius=2] [center=false] [pos=11 -57.5 -61] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2 4] [center=false] [pos=0 -28.076 -114.747] [ori=1 0 0 0 -0.9239 0.3826 0 -0.3826 -0.9239]
+0 !LDCAD SNAP_CYL [id=dragonbodyr] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 14 2] [center=false] [pos=-16 30 -4] [ori=0 -1 0 -1 0 0 0 0 -1]

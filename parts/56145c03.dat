@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Wheel Rim 20 x 30, 6 Spokes, Ribs with Tyre 26/ 52 x 30 Off Road"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=3 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole3] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 0 -20] [ori=0 0 -1 1 0 0 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre34] [gender=M] [bounding=cyl 34 25] [center=false] [pos=0 0 -1] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre38] [gender=M] [bounding=cyl 38 25] [center=false] [pos=0 0 0] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre34] [gender=F] [bounding=cyl 33.5 32] [center=false] [pos=0 0 0] [ori=-1 0 0 0 0 1 0 1 0]

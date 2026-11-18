@@ -1,0 +1,45 @@
+0 LDCad shadow info for "Plate 2 x 2 with White Wheels and Tyres 8/ 75 x 8 Offset Tread"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=7 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-36.0,6.0,0.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-36 6 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 //StudLab seat [36.0,6.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=36 6 0] [ori=0 -1 0 0 0 -1 1 0 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 4 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,8.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 16 4] [center=false] [pos=0 8 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 10] [center=false] [pos=-31 6 0] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 10] [center=false] [pos=31 6 0] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 11] [placement=free] [center=false] [pos=19 6 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 11] [placement=free] [center=false] [pos=-19 6 0] [ori=1 0 0 0 1 0 0 0 1]

@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Figure Friends Left Arm Stump"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 7  _L 2.5 2  R 2 1] [center=false] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 10] [center=false] [slide=true] [pos=4.6 8.2 3.6] [ori=-0.887 -0.4617 0 0.4617 -0.887 0 0 0 1]

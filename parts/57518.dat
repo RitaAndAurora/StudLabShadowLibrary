@@ -1,0 +1,19 @@
+0 LDCad shadow info for "Technic Chain Tread 5 Wide"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,-2.0,-17.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 -2 -17] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 28] [center=true] [slide=true] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6] [center=false] [pos=20 -14 -17] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6] [center=false] [pos=-20 -14 -17] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=6] [center=false] [pos=-8 0 -30] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=6] [center=false] [pos=14 0 -30] [ori=0 1 0 0 0 -1 -1 0 0]

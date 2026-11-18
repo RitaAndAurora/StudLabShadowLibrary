@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Technic Chain Link"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=1.5] [length=2.5] [center=false] [pos=-10 0 0] [ori=0 -1 0 -0.2588 0 -0.9659 0.9659 0 -0.2588]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=1.5] [length=2.5] [center=false] [pos=7.5 0 0] [ori=0 -1 0 -0.2588 0 -0.9659 0.9659 0 -0.2588]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 2 12] [center=true] [pos=0 0 16] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 1.5 2.5] [center=false] [pos=7.5 0 16] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 1.5 2.5] [center=false] [pos=-7.5 0 16] [ori=0 1 0 1 0 0 0 0 -1]

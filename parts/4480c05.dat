@@ -1,0 +1,106 @@
+0 LDCad shadow info for "Bike 2 Wheel Motorcycle with Wheels, Windshield, Lights and Rider (Needs work)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=9 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [-12.0,10.0,-10.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-12 10 -10] [ori=0 1 0 -0.0698 0 0.9976 0.9976 0 0.0698]
+0 //StudLab seat [0.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,10.0,20.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 10 20] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [12.0,10.0,-10.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=12 10 -10] [ori=0 -1 0 0.0698 0 0.9976 -0.9976 0 0.0698]
+0 //StudLab seat [0.0,-13.639,-85.127,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -13.639 -85.127] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [0.0,10.0,28.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 10 28] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab studs from=library
+0 //StudLab seat [10.0,4.24,-21.724,0.0,-0.375,-0.927]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4.5] [center=false] [pos=10 4.24 -21.724] [ori=1 0 0 0 0.375 -0.927 0 0.927 0.375]
+0 //StudLab seat [-10.0,4.24,-21.725,0.0,-0.375,-0.927]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4.5] [center=false] [pos=-10 4.24 -21.725] [ori=1 0 0 0 0.375 -0.927 0 0.927 0.375]
+0 //StudLab seat [0.0,-40.72,-36.105,0.0,-0.993,-0.122,12.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 12] [center=false] [slide=true] [pos=0 -40.72 -36.105] [ori=1 0 0 0 0.9925 -0.1221 0 0.1221 0.9925]
+0 //StudLab seat [-22.089,-19.758,-63.324,0.94,-0.147,-0.308,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=-22.089 -19.758 -63.324] [ori=0.2192 -0.9399 0.2617 0.9517 0.1473 -0.2695 0.2152 0.308 0.9268]
+0 //StudLab seat [22.089,-19.758,-63.324,-0.94,-0.147,-0.308,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=22.089 -19.758 -63.324] [ori=0.2192 0.9399 -0.2617 -0.9517 0.1473 -0.2695 -0.2152 0.308 0.9268]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,40.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 40 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,-13.639,-85.127,0.0,0.0,1.0,5.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 5] [center=false] [pos=0 -13.639 -85.127] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [0.0,10.0,20.0,0.0,0.0,-1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 10 20] [ori=0 0 -1 1 0 0 0 -1 0]
+0 //StudLab seat [10.0,28.319,-42.197,0.0,0.927,-0.375,5.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 5] [center=false] [pos=10 28.319 -42.197] [ori=1 0 0 0 0.927 0.375 0 -0.375 0.927]
+0 //StudLab seat [10.0,22.78,-29.224,0.0,0.375,0.927,11.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11.5] [center=false] [pos=10 22.78 -29.224] [ori=1 0 0 0 0.375 -0.927 0 0.927 0.375]
+0 //StudLab seat [-10.0,28.319,-42.198,0.0,0.927,-0.375,5.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 5] [center=false] [pos=-10 28.319 -42.198] [ori=1 0 0 0 0.927 0.375 0 -0.375 0.927]
+0 //StudLab seat [-10.0,22.78,-29.225,0.0,0.375,0.927,11.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11.5] [center=false] [pos=-10 22.78 -29.225] [ori=1 0 0 0 0.375 -0.927 0 0.927 0.375]
+0 //StudLab seat [-10.0,-8.976,-32.201,0.0,0.993,0.122,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=-10 -8.976 -32.201] [ori=1 0 0 0 0.9925 -0.1221 0 0.1221 0.9925]
+0 //StudLab seat [10.0,-8.976,-32.201,0.0,0.993,0.122,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=10 -8.976 -32.201] [ori=1 0 0 0 0.9925 -0.1221 0 0.1221 0.9925]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 10 24] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=figBike3Frame] [gender=F] [bounding=box 15 25 45] [center=false] [pos=0 16 -25] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=figBike3Frame] [gender=M] [bounding=box 15 25 45] [center=false] [pos=0 16 -25] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -13.639 -89.129] [ori=1 0 0 0 -0 1 0 -1 -0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [id=motorcyclewindshield] [scale=none] [mirror=none] [gender=M] [bounding=box 7 2 7] [center=false] [pos=0 -12.109 -77.96] [ori=1 0 0 0 -0.3829 0.9238 0 -0.9238 -0.3829]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 24] [center=true] [slide=true] [pos=0 -21.361 -67.628] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 30 0] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 30 0] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 3] [center=false] [pos=0 30 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 30 -90] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 30 -90] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 3] [center=false] [pos=0 30 -90] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 10 3  R 6 4] [center=false] [slide=true] [pos=0 -13.639 -90.127] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 10 3  R 8 5] [center=false] [slide=true] [pos=0 -13.639 -93.127] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD SNAP_GEN [id=motorcyclewindshield] [scale=none] [mirror=none] [gender=F] [bounding=box 7 2 7] [center=false] [pos=0 -12.109 -77.959] [ori=1 0 0 0 -0.3829 0.9238 0 -0.9238 -0.3829]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 3 8] [center=false] [pos=2 2.813 -30.585] [ori=0 -1 0 0.927 0 0.375 -0.375 0 0.927]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 3 8] [center=false] [pos=-2 2.813 -30.586] [ori=0 1 0 -0.927 0 0.375 0.375 0 0.927]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=-15.552 -31.792 -35.007] [ori=-0.1702 -0.9854 0 0.978 -0.1687 -0.1221 0.1203 -0.0207 0.9925]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=15.552 -31.792 -35.007] [ori=-0.1702 0.9854 0 -0.978 -0.1687 -0.1221 -0.1203 -0.0207 0.9925]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=-21.915 -21.927 -53.894] [ori=0.2192 -0.018 -0.9754 0.9517 0.2241 0.2101 0.2152 -0.9744 0.066]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-21.291 -19.883 -63.586] [ori=0.2192 -0.9399 0.2617 0.9517 0.1473 -0.2695 0.2152 0.308 0.9268]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=21.915 -21.927 -53.894] [ori=0.2192 0.018 0.9754 -0.9517 0.2241 0.2101 -0.2152 -0.9744 0.066]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=21.291 -19.883 -63.586] [ori=0.2192 0.9399 -0.2617 -0.9517 0.1473 -0.2695 -0.2152 0.308 0.9268]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 5.5] [center=false] [pos=0 -13.614 -31.994] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 13.5] [center=true] [slide=true] [pos=-21.993 -19.773 -63.356] [ori=-0.155 0.94 0.304 -0.988 -0.147 -0.048 0 -0.308 0.951]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 13] [center=true] [slide=true] [pos=22.228 -19.736 -63.279] [ori=0.155 0.94 -0.304 -0.988 0.147 -0.048 0 0.308 0.951]

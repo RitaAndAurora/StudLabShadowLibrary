@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Duplo Door 1 x 4 x 4 Wooden with Handle and Rounded Top"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=2.5] [radius=6] [center=true] [pos=106.5 41 -14.75] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=2.5] [radius=6] [center=true] [pos=106.5 -9 -14.75] [ori=0 0 1 1 0 0 0 1 0]

@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Duplo Beam 3 x 0.5 Liftarm with Axle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-14.0,20.0,26.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-14 20 26] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=A 9 40] [center=false] [slide=true] [pos=0 20 80] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 9 10  R 7.5 8] [center=false] [slide=true] [pos=0 0 80] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 9 20] [center=false] [slide=true] [pos=0 0 40] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=A 9 40] [center=true] [slide=true] [pos=0 0 0] [ori=1 0 0 0 -1 0 0 0 -1]

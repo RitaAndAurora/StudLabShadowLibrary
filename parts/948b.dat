@@ -1,0 +1,24 @@
+0 LDCad shadow info for "~Train Track 4.5V Point Type 2 Tapered Left - Frame"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=20 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-20 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-40 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-60 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-80 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-100 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-120 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-140 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-160 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-180 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-200 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-220 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-240 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-260 12 -50] [ori=-1 0 0 0 -1 0 0 0 1]

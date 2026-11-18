@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Glass for Window 1 x 2 x 2 with Spider Web in Lower Left Corner Sticker"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none printof=60601.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=win-1-2-2] [gender=M] [bounding=box 16.5 17.5 2] [center=false] [pos=0 21.5 -5] [ori=1 0 0 0 1 0 0 0 1]

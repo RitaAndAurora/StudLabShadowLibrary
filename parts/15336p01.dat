@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Motor Inertia Flywheel 4 x 6 x 2 with Metal Wheel and Orange Tyre Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=4 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=25 0 30] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=25 0 -30] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=-25 0 30] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=-25 0 -30] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 10 50] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 10 -50] [ori=0 0 1 0 1 0 -1 0 0]

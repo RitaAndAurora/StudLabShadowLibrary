@@ -1,0 +1,12 @@
+0 LDCad shadow info for "~Moved to 4325"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 19] [center=false] [slide=true] [pos=0 -42.9 22] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 12] [center=false] [slide=true] [pos=0 -36.727 31.239] [ori=0 0 1 -0.3827 -0.9239 0 0.9239 -0.3827 0]

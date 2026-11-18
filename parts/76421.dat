@@ -1,0 +1,24 @@
+0 LDCad shadow info for "Technic Turntable 5 x 5 (Complete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=-20 10 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=0 10 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=20 10 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=-20 10 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=0 10 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=20 10 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=turntable5x5] [gender=M] [caps=one] [secs=R 10 5  _L 11 5] [center=false] [pos=0 0 0] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=-20 0 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=0 0 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=20 0 40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=-20 0 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=0 0 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=20 0 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=turntable5x5] [gender=F] [caps=none] [secs=R 10 5  R 12 5] [center=false] [pos=0 0 0] [ori=0 0 1 0 1 0 -1 0 0]

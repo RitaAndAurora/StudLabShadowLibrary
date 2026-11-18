@@ -1,0 +1,35 @@
+0 LDCad shadow info for "Minifig Bicycle with Integral Tyre Wheels"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=4 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [0.0,-4.0,-82.5,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -4 -82.5] [ori=-1 0 0 0 0 1 0 1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 0] [ori=0 0 1 0 -1 0 1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 22] [center=false] [pos=10 -21.641 -68.04] [ori=0 -0.9798 0.2 -1 0 0 0 -0.2 -0.9798]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 22] [center=false] [slide=true] [pos=-10 -21.641 -68.04] [ori=0 0.9798 -0.2 1 0 0 0 -0.2 -0.9798]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=bikeWheel] [genderOfs=M] [seq=4 8 4] [radius=4] [center=true] [pos=0 30 -86] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=bikeWheel] [genderOfs=M] [seq=4 8 4] [radius=4] [center=true] [pos=0 30 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 22.5] [center=false] [slide=true] [pos=0 0 -46] [ori=1 0 0 0 0.1842 -0.9829 0 0.9829 0.1842]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 26] [center=true] [slide=true] [pos=0 -21.641 -67.97] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 36.5] [center=true] [slide=true] [pos=0 18.613 -60.581] [ori=1 0 0 0 0.8263 -0.5632 0 0.5632 0.8263]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=bikeWheel] [genderOfs=M] [seq=8] [radius=4] [center=true] [pos=0 30 0] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=bikeWheel] [genderOfs=M] [seq=8] [radius=4] [center=true] [pos=0 30 -86] [ori=0 -1 0 -1 0 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 36.5] [center=true] [slide=true] [pos=0 18.613 -60.581] [ori=1 0 0 0 0.826 -0.563 0 0.563 0.826]

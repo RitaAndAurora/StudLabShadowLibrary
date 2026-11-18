@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Wheel Rim 14 x 18 with Axlehole"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20  R 10 7  R 19 10] [center=false] [slide=true] [pos=0 0 20] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre18.5] [gender=M] [bounding=cyl 19.5 18.5] [center=false] [pos=0 0 -13] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre22.5] [gender=M] [bounding=cyl 22 18.5] [center=false] [pos=0 0 -14.5] [ori=-1 0 0 0 0 1 0 1 0]

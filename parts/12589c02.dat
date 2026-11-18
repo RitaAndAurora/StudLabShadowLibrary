@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Duplo Wheel 11 x 17 with Dark Azure Tyre 11 / 45 x 17 and Black Attached Axle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 26] [center=false] [pos=0 0 35] [ori=0 0 1 1 0 0 0 1 0]

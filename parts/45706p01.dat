@@ -1,0 +1,44 @@
+0 LDCad shadow info for "Train Front 6 x 10 x 3.667 Triple Curved Wedge with Green Train Logo and Stripe on Side Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=11 studs=shadow antistuds=studlab printof=45706.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [50.0,0.0,40.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=50 0 40] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [-50.0,0.0,40.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-50 0 40] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [-10.0,0.0,-40.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -40] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [10.0,0.0,-40.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -40] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [-10.0,24.0,-20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 24 -20] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [10.0,24.0,-20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 24 -20] [ori=0 0 -1 0 1 0 1 0 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,80.0,-110.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 76 -110] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [-50.0,24.0,40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-50 24 40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [50.0,24.0,40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=50 24 40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,32.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 32 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,32.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 32 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,32.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 32 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,32.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 32 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,32.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 32 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-50.0,87.0,-60.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-50 87 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [50.0,87.0,-60.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=50 87 -60] [ori=1 0 0 0 1 0 0 0 1]

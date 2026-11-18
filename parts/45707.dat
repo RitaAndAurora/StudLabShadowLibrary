@@ -1,0 +1,48 @@
+0 LDCad shadow info for "Forklift Forks 4 x 7"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=14 studs=shadow antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,45.0,-10.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 45 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+0 //StudLab seat [0.0,25.0,-10.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 25 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,71.0,-10.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 71 -10] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [-30.0,77.5,-80.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 77.5 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,77.5,-80.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 77.5 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,78.0,-70.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 78 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,78.0,-70.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 78 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,78.5,-60.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 78.5 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,78.5,-60.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 78.5 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,79.0,-50.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 79 -50] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,79.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 79 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,79.0,-30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-30 79 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,79.0,-50.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 79 -50] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,79.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 79 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,79.0,-30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30 79 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,74.5,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 74.5 -10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 45 -6] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 25 -6] [ori=0 0 1 1 0 0 0 1 0]

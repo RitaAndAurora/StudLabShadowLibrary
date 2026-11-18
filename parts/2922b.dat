@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Train Pantograph Shoe with Locking Hinge"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [radius=0] [center=true] [pos=0 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 57] [center=true] [slide=true] [pos=0 -19 -8] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 57] [center=true] [slide=true] [pos=0 -19 8] [ori=0 1 0 -1 0 0 0 0 1]

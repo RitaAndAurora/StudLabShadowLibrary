@@ -1,0 +1,29 @@
+0 LDCad shadow info for "Wing Insectoid Small with Arm Hinge Left with Circuit Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=shadow antistuds=none printof=30231.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [15.0,-1.0,65.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=15 -1 65] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [15.0,1.0,65.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=15 1 65] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [-25.0,-1.0,145.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-25 -1 145] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-25.0,1.0,145.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-25 1 145] [ori=1 0 0 0 -1 0 0 0 -1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=4 4 4 4 4] [radius=9.5] [center=true] [pos=0 0 1] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=15 -5 65] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=15 5 65] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 10] [center=true] [slide=true] [pos=15 0 65] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 10] [center=true] [slide=true] [pos=-25 0 145] [ori=1 0 0 0 1 0 0 0 1]
+
+0 !LDCAD MIRROR_INFO [counterPart=30231p02.dat]

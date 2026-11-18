@@ -1,0 +1,22 @@
+0 LDCad shadow info for "Sheet Plastic Technic Panel 10 x 10 Circular with 5 Holes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-80.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 1.5] [center=false] [pos=-80 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [-60.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 1.5] [center=false] [pos=-60 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [-40.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 1.5] [center=false] [pos=-40 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [-20.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 1.5] [center=false] [pos=-20 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 1.5] [center=false] [pos=0 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self] [posCor=0 0.75 0]

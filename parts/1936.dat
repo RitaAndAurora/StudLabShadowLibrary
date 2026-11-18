@@ -1,0 +1,22 @@
+0 LDCad shadow info for "Technic Swashplate 5 x 5 Top with 5 Pin Holes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=2 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,-20.0,-33.0,0.0,0.0,1.0]
+0 //StudLab seat [19.397,-20.0,26.698,-0.588,0.0,-0.809]
+0 //StudLab seat [31.385,-20.0,-10.198,-0.951,0.0,0.309]
+0 //StudLab seat [-19.397,-20.0,26.698,0.588,0.0,-0.809]
+0 //StudLab seat [-31.385,-20.0,-10.198,0.951,0.0,0.309]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=0 -20 -41] [ori=-0 0 1 1 0 0 -0 1 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=24.099 -20 33.17] [ori=0 -0.5878 -0.809 1 0 0 0 -0.809 0.5878]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=38.993 -20 -12.67] [ori=0 -0.9511 0.309 1 0 0 0 0.309 0.9511]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-24.099 -20 33.17] [ori=-0 0.5878 0.809 -1 0 0 -0 -0.809 0.5878]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-38.993 -20 -12.67] [ori=-0 0.9511 -0.309 -1 0 0 -0 0.309 0.9511]

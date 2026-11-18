@@ -1,0 +1,20 @@
+0 LDCad shadow info for "Technic Beam 3 x 3.8 x 7 Liftarm Bent 45 Double with Black Exclamation Mark on Yellow Background Left Model Sticker"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none printof=32009.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 10 -160] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=60 0 0] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -100] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -120] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -140] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=40 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=80 10 0] [ori=0 0 -1 0 1 0 1 0 0]

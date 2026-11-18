@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Wheel Rim 41 x 75 with 10 Spokes and 3 Pins"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,-10.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 -10] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=0 -20 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=17.321 10 0] [ori=-0.5 0 -0.866 0.866 0 -0.5 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=-17.321 10 0] [ori=-0.5 0 0.866 -0.866 0 -0.5 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 0 -14] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre89] [gender=M] [bounding=cyl 89 50.5] [center=false] [pos=0 0 29] [ori=-1 0 0 0 0 1 0 1 0]

@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Hinge Arm Locking with Single Finger and Friction Pin with Rectangular Centre Hole"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=fpin10] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=0 0 10] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=M] [seq=8] [radius=0] [center=true] [pos=0 0 -20] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=M] [seq=3.5 2.5 3 2.5 3.5] [radius=4] [center=true] [pos=0 0 0] [ori=0 0 1 1 0 0 0 1 0]

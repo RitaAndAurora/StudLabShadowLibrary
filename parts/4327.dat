@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Fabuland Fishing Rod"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [-7.0,0.3,-23.2,-1.0,0.0,0.0,10.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 10] [center=false] [pos=3 0.3 -23.2] [ori=-0 1 0 -1 0 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 26] [center=false] [slide=true] [pos=0 -6.5 -11.258] [ori=0 0 1 -0.866 -0.5 0 0.5 -0.866 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 13.5] [center=true] [slide=true] [pos=0 -37.926 -88.68] [ori=0 0 1 0.999 0.044 0 -0.044 0.999 0]

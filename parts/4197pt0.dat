@@ -1,0 +1,26 @@
+0 LDCad shadow info for "Duplo Brick 2 x 6 x 2 with Raised Central 2 x 2 Section with Curved Sides with Red "CIRCUS" Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none printof=4197.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=100 48 20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=100 48 20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=100 48 -20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=100 48 -20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=-100 48 20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=-100 48 20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=-100 48 -20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=-100 48 -20] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=-20 0 20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=-20 0 20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=20 0 20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=20 0 20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=-20 0 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=-20 0 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=20 0 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=20 0 -20] [ori=1 0 0 0 1 0 0 0 1]

@@ -1,0 +1,78 @@
+0 LDCad shadow info for "Brick 4 x 4 Round with Pinhole and Snapstud"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=14 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=30 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=30 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-30 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-30 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,30.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,30.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,-30.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,-30.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -30] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-20.0,24.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=-20 20 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [20.0,24.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=20 20 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [0.0,24.0,20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 20 20] [ori=1 0 0 0 -1 0 0 0 -1]
+0 //StudLab seat [0.0,24.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 20 -20] [ori=1 0 0 0 -1 0 0 0 -1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-30.0,24.0,-10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-30 24 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,24.0,10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-30 24 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,24.0,-10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-10 24 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,24.0,10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-10 24 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,24.0,-10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=10 24 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,24.0,10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=10 24 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,24.0,-10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=30 24 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,24.0,10.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=30 24 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,24.0,-30.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-10 24 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,24.0,30.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=-10 24 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,24.0,-30.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=10 24 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,24.0,30.0,0.0,1.0,0.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=10 24 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,24.0,0.0,0.0,1.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 7 2  _L 8 2] [center=false] [pos=0 20 0] [ori=-1 0 0 -0 -1 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 7 8] [center=false] [pos=0 24 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=B] [secs=L_ 7.5 2  R 7 2  R 8 10  R 10 6] [center=false] [pos=0 24 0] [ori=1 0 0 0 1 0 0 0 1]

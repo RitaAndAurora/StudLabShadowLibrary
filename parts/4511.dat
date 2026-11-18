@@ -1,0 +1,13 @@
+0 LDCad shadow info for "Door 6.5 x 5 Sliding with Corrugated Surface"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=2.5] [radius=3] [center=true] [pos=5 5 -2.75] [ori=0 0 1 1 0 0 0 1 0]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Y] [counterPart=self]

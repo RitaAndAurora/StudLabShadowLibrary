@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Figure Friends Baby Body with Bright Light Yellow Romper Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=none antistuds=shadow printof=111388.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,1.0,0.0,5.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 5] [center=false] [pos=0 -5 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8.5] [placement=free] [center=false] [pos=0 -15.5 1] [ori=1 0 0 0 1 0 0 0 1]

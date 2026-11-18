@@ -1,0 +1,15 @@
+0 LDCad shadow info for "~Minifig Hipwear Antistud"
+
+0 Author: LDCad Shadow Library
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2024-07-06 {Philippe Hurbain} Initial info for s\24779s03.dat
+
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 6 3] [slide=true] [pos=-10 0 0]
+
+0 //Added by StudLab (by-hand-add)
+
+0 //A skirt or other hipwear goes onto a minifigure's hips, their studs passing through its holes (open at both ends,
+0 //so any stud fits), and the torso goes on top: what is left of each hip stud above the hipwear (11 LDU less its 3),
+0 //which the torso's holes take as they take the hips' own.
+0 !LDCAD SNAP_CYL [gender=M] [caps=one] [secs=R 6 8] [pos=-10 -3 0]

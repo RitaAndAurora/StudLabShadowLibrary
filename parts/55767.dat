@@ -1,0 +1,39 @@
+0 LDCad shadow info for "Technic Support 31 x 13 Bridge Side"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=40 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=180 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=200 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=300 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=320 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=420 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=440 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=580 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=600 0 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=40 -240 0] [ori=0 0 -1 -1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=180 -240 0] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=200 -240 0] [ori=0 0 -1 1 0 0 0 -1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=400 0 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=280 0 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=160 0 -10] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=0 0 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=0 -80 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=0 -160 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=0 -240 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=20 0 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=20 -240 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=160 -240 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=560 0 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=520 -60 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=440 -120 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=360 -180 -10] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [slide=true] [pos=280 -240 -10] [ori=-1 0 0 0 0 -1 0 -1 0]

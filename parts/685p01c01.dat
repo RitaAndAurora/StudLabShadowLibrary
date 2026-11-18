@@ -1,0 +1,58 @@
+0 LDCad shadow info for "Maxifig Head (Complete) with Face Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [0.0,-55.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 5] [center=false] [pos=0 -55 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [23.0,-32.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 5] [center=false] [pos=23 -32 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 //StudLab seat [-23.0,-32.0,0.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 5] [center=false] [pos=-23 -32 0] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [-10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [-10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 10] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,24.0,0.0,0.0,1.0,0.0,5.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 5] [center=false] [pos=0 19 0] [ori=0 0 1 0 -1 0 1 0 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,24.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 24 10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [10.0,24.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 24 10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [-10.0,24.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 24 -10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [10.0,24.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 24 -10] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 10 6  R 8 4  R 7 12  R 6.5 1  R 7 1] [center=false] [pos=0 -10 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 9 3  R 4 3  _L 6 4] [center=false] [pos=-20 10 0] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 9 3  R 4 3  _L 6 4] [center=false] [pos=20 10 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 7 13] [center=false] [pos=0 0 0] [ori=0 0 1 0 -1 0 1 0 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=4 4 4 4 4] [radius=9.5] [center=true] [pos=30 10 0] [ori=0 0 1 -1 0 0 0 -1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 9 3  R 4 3  _L 6 4] [center=false] [pos=20 10 0] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=4 4 4 4 4] [radius=9.5] [center=true] [pos=-30 10 0] [ori=-0 0 -1 1 0 0 -0 -1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 9 3  R 4 3  _L 6 4] [center=false] [pos=-20 10 0] [ori=-0 -1 0 1 0 0 -0 0 1]

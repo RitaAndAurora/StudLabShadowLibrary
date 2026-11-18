@@ -1,0 +1,27 @@
+0 LDCad shadow info for "Technic Turntable 60 Tooth Top"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [33.0,-20.0,0.0,-1.0,0.0,0.0]
+0 //StudLab seat [-33.0,-20.0,0.0,1.0,0.0,0.0]
+0 //StudLab seat [33.0,-20.0,20.0,-1.0,0.0,0.0]
+0 //StudLab seat [-33.0,-20.0,20.0,1.0,0.0,0.0]
+0 //StudLab seat [33.0,-20.0,-20.0,-1.0,0.0,0.0]
+0 //StudLab seat [-33.0,-20.0,-20.0,1.0,0.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=41 -20 0] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-41 -20 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=41 -20 20] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-41 -20 20] [ori=-0 1 0 -0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=41 -20 -20] [ori=-0 -1 0 -0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-41 -20 -20] [ori=0 1 0 0 0 -1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=techTrnTbl60] [gender=M] [caps=one] [secs=R 37 16] [center=false] [pos=0 -6 0] [ori=1 0 0 0 -1 0 0 0 -1]

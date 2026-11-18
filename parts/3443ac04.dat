@@ -1,0 +1,45 @@
+0 LDCad shadow info for "Train Battery Box Car with Two Contact Holes, Red Switch Lever, Black Wheels and Magnets (Complete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=8 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [62.0,135.0,70.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=62 135 70] [ori=0 -1 0 1 0 0 0 0 1]
+0 //StudLab seat [-62.0,135.0,70.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-62 135 70] [ori=0 1 0 1 0 0 0 0 -1]
+0 //StudLab seat [62.0,135.0,-70.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=62 135 -70] [ori=0 -1 0 1 0 0 0 0 1]
+0 //StudLab seat [-62.0,135.0,-70.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-62 135 -70] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab studs from=library
+0 //StudLab seat [0.0,134.0,-100.0,0.0,-1.0,0.0,12.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 12] [center=false] [pos=0 134 -100] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [0.0,134.0,100.0,0.0,-1.0,0.0,12.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 12] [center=false] [pos=0 134 100] [ori=0 0 -1 0 1 0 1 0 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axle] [scale=YOnly] [mirror=cor] [gender=M] [caps=none] [secs=A 6 14] [center=false] [slide=true] [pos=0 145 -44] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 49.5] [center=true] [slide=true] [pos=45 60.75 70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 48.5] [center=true] [slide=true] [pos=45 60.25 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 48.5] [center=true] [slide=true] [pos=-45 60.25 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 48.5] [center=true] [slide=true] [pos=-45 60.25 70] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=trainMagnet] [gender=M] [bounding=sph 15] [center=false] [pos=0 129 -155.5] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=trainMagnet] [gender=F] [bounding=sph 15] [center=false] [pos=0 129 -155.5] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=trainMagnet] [gender=M] [bounding=sph 15] [center=false] [pos=0 129 155.5] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=trainMagnet] [gender=F] [bounding=sph 15] [center=false] [pos=0 129 155.5] [ori=-1 0 0 0 1 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 48.5] [center=true] [slide=true] [pos=45 60.25 70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 49.5] [center=true] [slide=true] [pos=45 60.75 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 51] [center=true] [slide=true] [pos=-45 61.5 -70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 52] [center=true] [slide=true] [pos=-45 62 70] [ori=1 0 0 0 1 0 0 0 1]

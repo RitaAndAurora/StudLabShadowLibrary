@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Peg Hole End"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-15 {StudLab} Initial info for peghole.dat
+
+0 //Added by StudLab (by-hand)
+
+0 //The counterbore at the face of a Technic pin hole (y 0 to 2); the entry covers the half hole behind it, counterbore first, like the ends of connhole.dat.
+0 !LDCAD SNAP_CYL [gender=F] [caps=none] [secs=R 8 2   R 6 8] [center=true] [slide=true] [pos=0 5 0] [ori=1 0 0 0 -1 0 0 0 -1]

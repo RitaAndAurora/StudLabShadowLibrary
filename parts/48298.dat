@@ -1,0 +1,34 @@
+0 LDCad shadow info for "Net 6 x 1 x 5 Soccer Goal Side"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=3 studs=shadow antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [4.0,-110.0,-50.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=4 -110 -50] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 //StudLab seat [4.0,-30.0,50.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=4 -30 50] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 //StudLab seat [-4.0,-110.0,-50.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-4 -110 -50] [ori=0 1 0 0 0 1 1 0 0]
+0 //StudLab seat [-4.0,-30.0,50.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-4 -30 50] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,0.0,-50.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 0 -50] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,0.0,50.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 0 50] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 20] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 40] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 -20] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 -40] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 11] [center=true] [slide=true] [pos=0 -41.563 46.932] [ori=1 0 0 0 0.966 -0.259 0 0.259 0.966]

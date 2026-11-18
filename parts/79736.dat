@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Minifig Watering Can"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,0.0,0.0,0.0,1.0,0.0,5.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 5] [center=false] [pos=0 -5 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 10 3] [center=false] [pos=0 -32 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=1 26 1] [radius=2] [center=true] [pos=0 -28.685 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2 5.5] [center=false] [pos=0 -39.6 -26] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 12] [center=false] [pos=0 -24.6 20] [ori=1 0 0 0 -1 0 0 0 -1]

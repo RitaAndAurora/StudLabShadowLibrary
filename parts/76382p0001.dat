@@ -1,0 +1,44 @@
+0 LDCad shadow info for "Minifig Torso with Arms and Light Nougat Hands with Jacket with Dark Bluish Grey Pinstripes and Vest, White Shirt and Dark Orange Tie Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=shadow antistuds=shadow printof=76382.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0,12.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 12] [center=false] [slide=true] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-24.852,33.512,-16.743,0.086,-0.5,-0.862,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=-24.852 33.512 -16.743] [ori=0.9854 -0.0862 0.1464 0.1701 0.4997 -0.8489 0 0.8619 0.5079]
+0 //StudLab seat [24.852,33.512,-16.743,-0.086,-0.5,-0.862,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=24.852 33.512 -16.743] [ori=0.9854 0.0862 -0.1464 -0.1701 0.4997 -0.8489 0 0.8619 0.5079]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,32.0,0.0,0.0,1.0,0.0,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=-10 32 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,32.0,0.0,0.0,1.0,0.0,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=10 32 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=-15.552 9 0] [ori=-0.1701 -0.9854 0 0.9854 -0.1701 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=15.552 9 0] [ori=-0.1701 0.9854 0 -0.9854 -0.1701 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2  _L 6 5] [center=false] [pos=-15.552 9 0] [ori=-0.1701 -0.9854 0 0.9854 -0.1701 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [gender=M] [caps=one] [secs=R 5 2] [center=true] [pos=-14.567 9.17 0] [ori=0.1701 0.9854 0 -0.9854 0.1701 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [gender=F] [caps=one] [secs=R 2.5 15] [center=false] [pos=-23.687 26.751 -9.884] [ori=0.9854 -0.1202 -0.1202 0.1701 0.6967 0.6967 0 -0.7073 0.7073]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2  _L 6 5] [center=false] [pos=15.552 9 0] [ori=-0.1701 0.9854 0 -0.9854 -0.1701 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2] [center=true] [pos=14.567 9.17 0] [ori=0.1701 -0.9854 0 0.9854 0.1701 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2.5 15] [center=false] [pos=23.687 26.751 -9.884] [ori=0.9854 0.1202 0.1202 -0.1701 0.6967 0.6967 0 -0.7073 0.7073]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=-23.69 26.774 -9.898] [ori=0.9854 -0.1201 -0.1201 0.1701 0.6965 0.6965 0 -0.7075 0.7075]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-24.779 33.088 -17.476] [ori=0.9854 -0.0862 0.1464 0.1701 0.4997 -0.8489 0 0.8619 0.5079]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=23.69 26.774 -9.898] [ori=0.9854 0.1201 0.1201 -0.1701 0.6965 0.6965 0 -0.7075 0.7075]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=24.779 33.088 -17.476] [ori=0.9854 0.0862 -0.1464 -0.1701 0.4997 -0.8489 0 0.8619 0.5079]

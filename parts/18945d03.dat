@@ -1,0 +1,46 @@
+0 LDCad shadow info for "Technic Panel 5 x 11 Trapezium with Air Outlet Grilles, Hatches and Electricity Danger Signs Sloped Left Sticker"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=6 studs=none antistuds=studlab printof=18945.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-80.0,-9.0,21.0,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-80 -9 21] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [80.0,-9.0,-19.0,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=80 -9 -19] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [80.0,-9.0,21.0,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=80 -9 21] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [-80.0,9.0,21.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-80 9 21] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [80.0,9.0,-19.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=80 9 -19] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [80.0,9.0,21.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=80 9 21] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=80 0 40] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=80 0 -40] [ori=-1 0 0 -0 1 0 -0 0 -1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=80 0 0] [ori=1 0 0 -0 1 0 -0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-80 0 40] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-80 0 0] [ori=1 0 0 -0 1 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=-60 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=-40 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=-20 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=0 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=20 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=40 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 4] [center=false] [pos=60 0 50] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=-110 0 0] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=-110 0 20] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=-110 0 40] [ori=0 -1 0 0 0 -1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=110 0 40] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=110 0 20] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=110 0 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=110 0 -20] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 6.5 3] [center=false] [pos=110 0 -40] [ori=0 1 0 0 0 -1 -1 0 0]

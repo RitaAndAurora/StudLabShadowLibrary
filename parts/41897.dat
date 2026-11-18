@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Tyre 28/ 23 x 43 ZR Street"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre50] [gender=F] [bounding=cyl 50 35] [center=false] [pos=0 0 0] [ori=-1 0 0 0 0 1 0 1 0]

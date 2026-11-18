@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Hinge Tile 2 x 4 with Ribs with Black Train Logo Small Sticker on Bottom"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none printof=2873.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=4 14 4 16 4 16 4 14 4] [radius=4] [center=true] [pos=0 4 24] [ori=0 -1 0 1 0 0 0 0 1]

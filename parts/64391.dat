@@ -1,0 +1,20 @@
+0 LDCad shadow info for "Technic Panel Fairing Smooth #4 (Medium)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=20 -40 20] [ori=-0 -1 0 1 0 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  _L 6.5 2] [center=false] [pos=20 -40 -10] [ori=1 0 0 -0 0 1 -0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=20 -20 -10] [ori=1 0 0 -0 0 1 -0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=20 0 -10] [ori=1 0 0 -0 0 1 -0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  _L 6.5 23] [center=false] [pos=0 0 -10] [ori=1 0 0 -0 0 1 -0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 2] [center=false] [pos=0 10 40] [ori=1 0 0 -0 1 0 -0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 2] [center=false] [pos=0 10 60] [ori=1 0 0 -0 1 0 -0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  S 6.5 2] [center=false] [pos=0 10 80] [ori=1 0 0 -0 1 0 -0 0 1]

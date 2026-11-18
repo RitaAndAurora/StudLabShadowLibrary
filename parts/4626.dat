@@ -1,0 +1,30 @@
+0 LDCad shadow info for "Excavator Bucket 2 x 3"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [-30.0,14.0,-10.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-30 14 -10] [ori=0 1 0 1 0 0 0 0 -1]
+0 //StudLab seat [-30.0,14.0,10.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-30 14 10] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-20.0,24.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-20 24 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-20.0,24.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-20 24 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=-20 20 0] [ori=-1 0 0 -0 -1 0 -0 0 1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-34 14 -10] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-34 14 10] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=4 4 4] [radius=4] [center=true] [pos=-34 -8 0] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z]

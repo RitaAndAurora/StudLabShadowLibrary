@@ -1,0 +1,14 @@
+0 LDCad shadow info for "Tile 1 x 2 with Metallic Silver Claw Bracelet Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=none antistuds=shadow printof=3069b.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 8 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 8 0] [ori=1 0 0 0 1 0 0 0 1]

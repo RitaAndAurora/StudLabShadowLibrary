@@ -1,0 +1,37 @@
+0 LDCad shadow info for "Panel 10 x 4 x 13 Curved Tapered with Handle at Each End and 4 Studs On Side"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=12 studs=studlab antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=estimated
+0 //StudLab seat [10.0,88.0,-74.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 88 -74] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [-10.0,88.0,-74.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 88 -74] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [10.0,108.0,-74.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 108 -74] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [-10.0,108.0,-74.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 108 -74] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,98.0,-50.0,0.0,0.0,1.0,6.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 6] [center=false] [pos=0 98 -56] [ori=-1 0 0 -0 0 -1 -0 -1 0]
+0 //StudLab seat [10.0,88.0,-50.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 88 -50] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [-10.0,88.0,-50.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 88 -50] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [10.0,108.0,-50.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=10 108 -50] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [-10.0,108.0,-50.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-10 108 -50] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole3] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 18] [center=false] [slide=true] [pos=0 98 -56] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 31] [center=true] [slide=true] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 31] [center=true] [slide=true] [pos=0 240 0] [ori=0 1 0 -1 0 0 0 0 1]

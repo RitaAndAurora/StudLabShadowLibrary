@@ -1,0 +1,17 @@
+0 LDCad shadow info for "Technic Axle Joiner 3L with Ridges for Driving Ring"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=A 6 20] [center=false] [pos=0 0 -30] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=A 6 20] [center=false] [pos=0 0 30] [ori=0 0 -1 -1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=drivingRing2] [gender=M] [caps=none] [secs=A 9 23  A 10 4  A 9 6  A 10 4  A 9 23] [center=true] [pos=0 0 0] [ori=0.7071 0 -0.7071 -0.7071 0 -0.7071 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 9] [placement=free] [center=false] [pos=0 0 -6] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 9] [placement=free] [center=false] [pos=0 0 6] [ori=1 0 0 0 1 0 0 0 1]

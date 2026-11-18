@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Technic Wheel Spindle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=0 -20 -40] [ori=0 0 -1 -1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=17.321 10 -40] [ori=0.866 0 0.5 0.5 0 -0.866 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=-17.321 10 -40] [ori=0.866 0 -0.5 -0.5 0 -0.866 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 10 23  R 8.5 4  _L 10 3] [center=false] [slide=true] [pos=0 0 -26] [ori=1 0 0 0 0 1 0 -1 0]

@@ -1,0 +1,23 @@
+0 LDCad shadow info for "Wheel Rim 30 x 61 with 3 Spokes Swirled"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=5 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-5.176,19.319,-8.0,0.0,0.0,1.0]
+0 //StudLab seat [-14.142,-14.142,-8.0,0.0,0.0,1.0]
+0 //StudLab seat [19.319,-5.177,-8.0,0.0,0.0,1.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 0 -19] [ori=-1 0 0 0 0 -1 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6  R 8 14] [center=true] [slide=true] [pos=-5.176 19.319 -11] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6  R 8 14] [center=true] [slide=true] [pos=-14.142 -14.142 -11] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6  R 8 14] [center=true] [slide=true] [pos=19.319 -5.177 -11] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre72] [gender=M] [bounding=cyl 72 37] [center=false] [pos=0 0 -32] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre75.5] [gender=M] [bounding=cyl 75.5 37] [center=false] [pos=0 0 -1] [ori=-1 0 0 0 0 1 0 1 0]

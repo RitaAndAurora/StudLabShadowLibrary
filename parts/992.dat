@@ -1,0 +1,32 @@
+0 LDCad shadow info for "Train Track 12V Slotted Crossing"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=14 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-47.996,0.0,42.004,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-47.996 0 42.004] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [12.004,0.0,42.004,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=12.004 0 42.004] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [42.004,0.0,12.004,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=42.004 0 12.004] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [42.004,0.0,52.004,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=42.004 0 52.004] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [52.004,0.0,42.004,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=52.004 0 42.004] [ori=-1 0 0 0 -1 0 0 0 1]
+0 //StudLab seat [42.004,0.5,-47.996,0.0,-1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=42.004 0.5 -47.996] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=M] [bounding=pnt] [center=false] [pos=-160 0 -0.154] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=F] [bounding=pnt] [center=false] [pos=-160 0 -0.154] [ori=0 0 1 0 -1 0 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=M] [bounding=pnt] [center=false] [pos=0 0 160] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=F] [bounding=pnt] [center=false] [pos=0 0 160] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=M] [bounding=pnt] [center=false] [pos=160 0 -0.154] [ori=0 0 1 0 -1 0 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=F] [bounding=pnt] [center=false] [pos=160 0 -0.154] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=M] [bounding=pnt] [center=false] [pos=0 0 -160] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=track12V] [gender=F] [bounding=pnt] [center=false] [pos=0 0 -160] [ori=-1 0 0 0 -1 0 0 0 1]

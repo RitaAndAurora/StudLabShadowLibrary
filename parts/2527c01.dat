@@ -1,0 +1,48 @@
+0 LDCad shadow info for "Minifig Cannon Non-Shooting with Base (Shortcut)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=11 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,8.0,20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 4 20] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 //StudLab seat [0.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 4 0] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 //StudLab seat [0.0,8.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 4 -20] [ori=0 0 -1 0 -1 0 -1 0 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,8.0,-30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,8.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,8.0,30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 8 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,-30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 -30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,8.0,30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 8 30] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=4] [center=true] [pos=18 -28 -30] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=4] [center=true] [pos=-18 -28 -30] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=8] [center=true] [pos=-30 -12 10] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=8] [center=true] [pos=30 -12 10] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 14] [center=false] [pos=-16 -28 -30] [ori=0 1 0 -0.9659 0 0.2588 0.2588 0 0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 14] [center=false] [pos=16 -28 -30] [ori=0 -1 0 -0.9659 0 -0.2588 0.2588 0 -0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 11] [center=false] [slide=true] [pos=0 -10.141 36.649] [ori=0 0 1 -0.9659 -0.2588 0 0.2588 -0.9659 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 1.8 5] [center=false] [pos=0 -37.673 15.038] [ori=1 0 0 0 -0.9659 -0.2588 0 0.2588 -0.9659]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 10] [placement=free] [center=false] [pos=0 -16.094 14.433] [ori=1 0 0 0 0.9659 0.2588 0 -0.2588 0.9659]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 10] [placement=free] [center=false] [pos=0 -16 14.5] [ori=1 0 0 0 1 0 0 0 1]

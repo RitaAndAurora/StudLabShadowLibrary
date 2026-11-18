@@ -1,0 +1,37 @@
+0 LDCad shadow info for "Plant Flower Stem with Bar and 6 Stems Green with 6 Flowers"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=2 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [-16.5,-27.383,0.0,-0.5,-0.866,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-16.5 -27.383 0] [ori=-0.866 0.5 0 0.5 0.866 0 0 0 -1]
+0 //StudLab seat [25.372,-12.235,0.0,0.94,-0.342,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=25.372 -12.235 0] [ori=-0.342 -0.9397 0 -0.9397 0.342 0 0 0 -1]
+0 //StudLab seat [8.25,-27.383,14.289,0.25,-0.866,0.433]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=8.25 -27.383 14.289] [ori=0.433 -0.25 -0.866 0.5 0.866 0 0.75 -0.433 0.5]
+0 //StudLab seat [-12.686,-12.235,-21.973,-0.47,-0.342,-0.814]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-12.686 -12.235 -21.973] [ori=0.171 0.4698 -0.866 -0.9397 0.342 0 0.2962 0.8138 0.5]
+0 //StudLab seat [8.25,-27.383,-14.289,0.25,-0.866,-0.433]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=8.25 -27.383 -14.289] [ori=0.433 -0.25 0.866 0.5 0.866 0 -0.75 0.433 0.5]
+0 //StudLab seat [-12.686,-12.235,21.973,-0.47,-0.342,0.814]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-12.686 -12.235 21.973] [ori=0.171 0.4698 0.866 -0.9397 0.342 0 -0.2962 -0.8138 0.5]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 10] [center=false] [slide=true] [pos=0 0 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 18.5  R 2 7] [center=false] [slide=true] [pos=-6.5 -10.062 0] [ori=-0.866 0.5 0 0.5 0.866 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 18.5  R 2 7] [center=false] [slide=true] [pos=3.25 -10.062 5.629] [ori=0.433 -0.25 -0.866 0.5 0.866 0 0.75 -0.433 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 17.5  R 2 7] [center=false] [slide=true] [pos=-3.759 -5.737 -6.51] [ori=0.171 0.4698 -0.866 -0.9397 0.342 0 0.2962 0.8138 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 18.5  R 2 7] [center=false] [slide=true] [pos=3.25 -10.062 -5.629] [ori=0.433 -0.25 0.866 0.5 0.866 0 -0.75 0.433 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 17.5  R 2 7] [center=false] [slide=true] [pos=-3.759 -5.737 6.51] [ori=0.171 0.4698 0.866 -0.9397 0.342 0 -0.2962 -0.8138 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 17.5  R 2 7] [center=false] [slide=true] [pos=7.517 -5.737 0] [ori=0.342 -0.9397 0 0.9397 0.342 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=-18.5 -30.847 0] [ori=0.866 -0.5 0 -0.5 -0.866 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=29.131 -13.603 0] [ori=0.342 0.9397 0 0.9397 -0.342 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=9.25 -30.847 16.021] [ori=-0.433 0.25 -0.866 -0.5 -0.866 0 -0.75 0.433 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=-14.565 -13.603 -25.228] [ori=-0.171 -0.4698 -0.866 0.9397 -0.342 0 -0.2962 -0.8138 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=9.25 -30.847 -16.021] [ori=-0.433 0.25 0.866 -0.5 -0.866 0 0.75 -0.433 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 6] [center=false] [pos=-14.565 -13.603 25.228] [ori=-0.171 -0.4698 0.866 0.9397 -0.342 0 0.2962 0.8138 0.5]

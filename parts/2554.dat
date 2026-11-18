@@ -1,0 +1,24 @@
+0 LDCad shadow info for "Door 1 x 3 x 6 with 1/4 Circle Top"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [2.0,73.0,40.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=2 73 40] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 //StudLab seat [-2.0,73.0,40.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-2 73 40] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=6 73 40] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-6 73 40] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=40] [radius=2] [center=true] [pos=0 96 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=4 4 4] [radius=5] [center=true] [pos=0 74 40] [ori=0 1 0 -1 0 0 0 0 1]

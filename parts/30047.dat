@@ -1,0 +1,44 @@
+0 LDCad shadow info for "Boat Mast 3 x 2 & 1/2 x 11 & 2/3 Bowsprit"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=2 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,30.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 30] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,296.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 292 0] [ori=-0 0 -1 -0 -1 0 -1 0 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,229.0,12.0,0.0,0.0,1.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 20] [center=false] [pos=0 229 12] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [0.0,209.0,12.0,0.0,0.0,1.0,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 20] [center=false] [pos=0 209 12] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [0.0,269.0,12.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 269 12] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [0.0,249.0,12.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 249 12] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 20] [center=false] [pos=0 220 -8] [ori=-0 0 -1 1 0 0 -0 -1 0]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 20] [center=false] [pos=0 240 -8] [ori=-0 0 -1 1 0 0 -0 -1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=mast] [gender=M] [caps=one] [secs=S 8 12  R 8 4] [center=false] [pos=0 280 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  S 8 4  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 260 -2] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 4] [center=false] [slide=true] [pos=0 124 30] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 8] [center=false] [slide=true] [pos=0 4 30] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 10 -16] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 30 -16] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 50 -16] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 70 -16] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 90 -16] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 20] [center=false] [pos=0 110 -16] [ori=1 0 0 0 0 1 0 -1 0]

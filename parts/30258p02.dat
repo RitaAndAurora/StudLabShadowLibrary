@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Roadsign Clip-on 2 x 2 Square with Black Turn Arrow Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none printof=30258.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=8] [center=false] [pos=0 4 0] [ori=-1 0 0 0 1 0 0 0 -1]

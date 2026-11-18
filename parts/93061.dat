@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Arm Skeleton with Vertical Clip Bent 53.13"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=8] [center=true] [pos=0 30.8 -14.4] [ori=1 0 0 0 0.8 -0.6 0 0.6 0.8]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=8] [center=true] [pos=0 0 0] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 9.5] [center=false] [pos=0 26.9 -9.2] [ori=1 0 0 0 0.6 0.8 0 -0.8 0.6]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 11.5] [center=false] [pos=0 6.5 0] [ori=0 0 -1 0 -1 0 -1 0 0]

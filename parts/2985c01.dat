@@ -1,0 +1,53 @@
+0 LDCad shadow info for "Electric Technic Micromotor with Top and Bottom Holder and Grey Pulley"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=3 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,26.0,-20.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 26 -20] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=10 0 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,56.0,0.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 6] [center=false] [pos=0 50 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-10.0,56.0,-10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 6] [center=false] [pos=-10 56 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,56.0,10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 6] [center=false] [pos=-10 56 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,56.0,-10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 6] [center=false] [pos=10 56 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,56.0,10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 6] [center=false] [pos=10 56 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,36.0,20.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 36 20] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-10.0,16.0,20.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 16 20] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [10.0,36.0,20.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 36 20] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [10.0,16.0,20.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 16 20] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [0.0,26.0,-26.0,0.0,0.0,1.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 26 -24] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-10 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=10 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-10 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=10 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 8  A 6 12] [center=true] [slide=true] [pos=0 26 -30] [ori=1 0 0 0 0 -1 0 1 0]

@@ -1,0 +1,17 @@
+0 LDCad shadow info for "Container Lifting Grab Tool Half"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=3 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-48.5,23.5,30.0,1.0,0.0,0.0]
+0 //StudLab seat [-48.5,23.5,-30.0,1.0,0.0,0.0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 3  R 7.5 1] [center=true] [slide=true] [pos=-50 23.5 30] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 3  R 7.5 1] [center=true] [slide=true] [pos=-50 23.5 -30] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 25] [center=true] [slide=true] [pos=-39 -23 0] [ori=0 0 1 1 0 0 0 1 0]

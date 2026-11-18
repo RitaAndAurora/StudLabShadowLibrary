@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Fabuland Oil Can"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=3 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,-2.746,10.525,0.0,-0.707,-0.707,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 -2.746 10.525] [ori=-1 0 0 0 -0.707 -0.707 0 -0.707 0.707]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 10] [center=true] [slide=true] [pos=0 -47.893 -50.5] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 11] [center=true] [slide=true] [pos=0 -35.042 19.58] [ori=0 0 1 -0.924 0.383 0 -0.383 -0.924 0]

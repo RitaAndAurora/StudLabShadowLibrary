@@ -1,0 +1,22 @@
+0 LDCad shadow info for "Minifig Food Sausage"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=B] [secs=R 2 2  R 4 4] [center=false] [slide=true] [pos=24.189 0 -9.705] [ori=-0.609 0.793 0 0 0 -1 -0.793 -0.609 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=B] [secs=R 2 2  R 4 4] [center=false] [slide=true] [pos=-24.189 0 -9.705] [ori=-0.609 -0.793 0 0 0 -1 0.793 -0.609 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=-19.431 0 -6.051] [ori=-0.5376 -0.8431 0 0 0 -1 0.8431 -0.5376 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=-15.873 0 -3.961] [ori=-0.4465 -0.8946 0 0 0 -1 0.8946 -0.4465 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=-12.295 0 -2.175] [ori=-0.3176 -0.9481 0 0 0 -1 0.9481 -0.3176 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=-8.371 0 -0.893] [ori=-0.1997 -0.9797 0 0 0 -1 0.9797 -0.1997 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=-3.856 0 -0.25] [ori=-0.0614 -0.998 0 0 0 -1 0.998 -0.0614 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=0.267 0 -0.147] [ori=0.0432 -0.9984 0 0 0 -1 0.9984 0.0432 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=4.26 0 -0.319] [ori=0.1817 -0.9827 0 0 0 -1 0.9827 0.1817 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=8.311 0 -1.101] [ori=0.3001 -0.9532 0 0 0 -1 0.9532 0.3001 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=12.192 0 -2.156] [ori=0.4299 -0.9022 0 0 0 -1 0.9022 0.4299 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 4] [center=false] [pos=15.897 0 -3.956] [ori=0.5359 -0.8419 0 0 0 -1 0.8419 0.5359 0]

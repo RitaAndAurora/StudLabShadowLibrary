@@ -1,0 +1,26 @@
+0 LDCad shadow info for "~Electric Power Functions IR Remote Control Bottom (Needs Work)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=craneArmW20] [gender=M] [caps=none] [secs=S 10 120] [center=true] [slide=true] [pos=50 -38 0] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 -60] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 -40] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 -20] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 0] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 20] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 40] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=60 -38 60] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=craneArmW20] [gender=M] [caps=none] [secs=S 10 120] [center=true] [slide=true] [pos=-50 -38 0] [ori=-0 0 -1 -1 0 0 -0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 -60] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 -40] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 -20] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 0] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 20] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 40] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 16  R 8 2] [center=false] [pos=-60 -38 60] [ori=-0 -1 0 -0 0 1 -1 0 0]

@@ -1,0 +1,115 @@
+0 LDCad shadow info for "Minifig Scooter with Rider"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=11 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,-48.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -48 0] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [0.0,-48.0,20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -48 20] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [0.0,-62.0,-66.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -62 -66] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [10.0,-63.978,-19.267,0.0,-0.998,0.061,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 11] [center=false] [pos=10 -63.978 -19.267] [ori=1 0 0 0 0.9981 0.061 0 -0.061 0.9981]
+0 //StudLab seat [-10.0,-63.978,-19.267,0.0,-0.998,0.061,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 11] [center=false] [pos=-10 -63.978 -19.267] [ori=-1 0 0 0 0.9981 -0.061 0 -0.061 -0.9981]
+
+0 //StudLab studs from=library
+0 //StudLab seat [0.0,-95.918,-17.314,0.0,-0.998,0.061,12.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 12] [center=false] [slide=true] [pos=0 -95.918 -17.314] [ori=1 0 0 0 0.9981 0.061 0 -0.061 0.9981]
+0 //StudLab seat [22.677,-76.737,-46.36,-0.958,0.039,-0.285,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=22.677 -76.737 -46.36] [ori=0.008 0.9578 -0.287 -0.9868 -0.0386 -0.1574 -0.162 0.2847 0.9449]
+0 //StudLab seat [-22.622,-77.071,-46.49,0.958,0.071,-0.277,6.25]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 6.25] [center=false] [pos=-22.622 -77.071 -46.49] [ori=-0.03 -0.9581 0.285 0.9879 -0.0714 -0.1365 0.152 0.2774 0.9488]
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,-119.873,-15.849,0.0,-0.998,0.061]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -119.873 -15.849] [ori=0.9975 0 0.071 -0.004 0.9981 0.061 -0.071 -0.061 0.9956]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,-62.0,-66.0,0.0,0.0,1.0,5.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 5] [center=false] [pos=0 -62 -66] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [10.0,-24.0,-21.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 -24 -21] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,-34.0,-11.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 -34 -11] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [10.0,-54.0,-11.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=10 -54 -11] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-10.0,-24.0,-21.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 -24 -21] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,-34.0,-11.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 -34 -11] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-10.0,-54.0,-11.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-10 -54 -11] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-10.0,-63.982,-19.266,0.0,0.998,-0.061,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=-10 -63.982 -19.266] [ori=1 0 0 0 0.9981 0.061 0 -0.061 0.9981]
+0 //StudLab seat [10.0,-63.982,-19.266,0.0,0.998,-0.061,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 11] [center=false] [pos=10 -63.982 -19.266] [ori=1 0 0 0 0.9981 0.061 0 -0.061 0.9981]
+0 //StudLab seat [0.0,-119.873,-15.849,0.0,0.998,-0.061,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 -119.873 -15.849] [ori=0.9975 0 0.071 -0.004 0.9981 0.061 -0.071 -0.061 0.9956]
+0 //StudLab seat [0.0,-95.921,-17.313,0.0,0.998,-0.061,20.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 20] [center=false] [pos=0 -95.921 -17.313] [ori=0.9975 0 0.071 -0.004 0.9981 0.061 -0.071 -0.061 0.9956]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -52 0] [ori=0 0 1 0 -1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -52 20] [ori=0 0 1 0 -1 0 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=7] [center=true] [pos=0 -62 -51] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=7] [center=true] [pos=0 -14 -30] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 10 3  R 6 4] [center=false] [slide=true] [pos=0 -62 -71] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 10 3  R 8 5] [center=false] [slide=true] [pos=0 -62 -74] [ori=0 0 1 -1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 8] [center=true] [pos=0 -62 -51] [ori=0 -1 0 0.9903 0 -0.139 0.139 0 0.9903]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 18] [center=false] [pos=12.05 -76.206 -50.483] [ori=0 -0.9301 -0.3676 0.9903 0.0511 -0.1293 0.139 -0.3638 0.921]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 18] [center=false] [pos=-12.05 -76.206 -50.483] [ori=0 0.9301 0.3676 -0.9903 0.0511 -0.1293 -0.139 -0.3638 0.921]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 -18 15] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 -18 15] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 -18 -70] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 -18 -70] [ori=0 -1 0 0 0 1 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 5.5] [center=false] [pos=0 -18 15] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 5.5] [center=false] [pos=0 -18 -70] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=1 26 1] [radius=2] [center=true] [pos=0 -14 -12.5] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 12] [center=true] [slide=true] [pos=0 -14 -30] [ori=0 1 0 1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 3 8] [center=false] [pos=2 -52 -20] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 3 8] [center=false] [pos=-2 -52.002 -19.999] [ori=0 1 0 -0.9981 0 0.061 0.061 0 0.9981]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 3 8] [center=false] [pos=2 -52.002 -19.999] [ori=0 -1 0 0.9981 0 0.061 -0.061 0 0.9981]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 3 8] [center=false] [pos=-2 -52 -20] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=-15.552 -86.936 -17.863] [ori=-0.1701 -0.9854 0 0.9836 -0.1697 0.061 -0.0601 0.0104 0.9981]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 5 2  R 6 5] [center=false] [pos=15.552 -86.936 -17.863] [ori=-0.1701 0.9854 0 -0.9836 -0.1697 0.061 0.0601 0.0104 0.9981]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2  _L 6 5] [center=false] [pos=-15.552 -86.935 -17.863] [ori=-0.143 -0.9854 -0.092 0.7952 -0.1701 0.582 -0.5892 0.01 0.808]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [gender=M] [caps=one] [secs=R 5 2] [center=true] [pos=-14.567 -86.765 -17.873] [ori=0.143 0.9854 -0.092 -0.7952 0.1701 0.582 0.5892 -0.01 0.808]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [gender=F] [caps=one] [secs=R 2.5 15] [center=false] [pos=-22.268 -78.525 -36.922] [ori=0.9854 -0.0361 -0.1662 0.1701 0.1506 0.9739 -0.01 -0.9879 0.1549]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2  _L 6 5] [center=false] [pos=15.552 -86.935 -17.863] [ori=-0.144 0.9854 0.09 -0.8019 -0.1701 0.5728 0.5799 0.01 0.8147]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 2] [center=true] [pos=14.567 -86.765 -17.873] [ori=0.144 -0.9854 0.09 0.8019 0.1701 0.5728 -0.5799 -0.01 0.8147]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2.5 15] [center=false] [pos=22.307 -78.304 -36.821] [ori=0.9854 0.0382 0.1654 -0.1701 0.1619 0.9721 0.01 -0.9861 0.1661]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=22.31 -78.305 -36.814] [ori=0.008 0.038 0.9992 -0.9868 0.162 0.002 -0.162 -0.9861 0.039]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=21.864 -76.704 -46.603] [ori=0.008 0.9578 -0.287 -0.9868 -0.0386 -0.1574 -0.162 0.2847 0.9449]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.5 13] [center=false] [pos=-22.274 -78.523 -36.925] [ori=-0.03 -0.036 -0.9989 0.9879 0.15 -0.035 0.152 -0.988 0.031]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-21.808 -77.01 -46.727] [ori=-0.03 -0.9581 0.285 0.9879 -0.0714 -0.1365 0.152 0.2774 0.9488]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=visor] [genderOfs=F] [seq=2 28 2] [radius=2] [center=true] [pos=0 -111.889 -16.337] [ori=0.071 -0.9975 0 0.061 0.004 -0.9981 0.9956 0.071 0.061]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 3] [center=false] [pos=0 -98.915 -17.13] [ori=0.9975 0 -0.071 -0.004 -0.9981 -0.061 -0.071 0.061 -0.9956]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 13 21] [center=false] [slide=true] [pos=0 -98.915 -17.13] [ori=0.9975 0 0.071 -0.004 0.9981 0.061 -0.071 -0.061 0.9956]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -123.865 -15.605] [ori=0.9975 0 -0.071 -0.004 -0.9981 -0.061 -0.071 0.061 -0.9956]

@@ -1,0 +1,40 @@
+0 LDCad shadow info for "Constraction Foot 3 x 6 x 2.333 with Squared Ball Socket"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=8 studs=studlab antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=estimated
+0 //StudLab seat [0.0,14.465,-49.054,0.0,-0.353,0.936,11.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 11] [center=true] [slide=true] [pos=0 12.522 -43.908] [ori=0 0 1 -0.935 0.353 0 -0.353 -0.935 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,30.0,-18.906,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 30 -18.906] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,29.5,11.094,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 29.5 11.094] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-12.5,40.0,0.0,1.0,0.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=-20 40 20] [ori=0 -1 0 -1 0 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=-15 40 0] [ori=0 -1 0 -1 0 0 0 0 -1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=-30 40 -20] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=20 40 20] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 8] [center=true] [slide=true] [pos=15 40 0] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=30 40 -20] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6.5  R 8 2] [center=true] [slide=true] [pos=-15.75 40 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6.5] [center=true] [slide=true] [pos=15.75 40 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 13] [placement=free] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]

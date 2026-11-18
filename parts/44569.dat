@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Hinge Tile 2 x 4 with Ribs Locking with Rear Reinforcements"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=3 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-20.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-20 8 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [20.0,8.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=20 8 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [radius=0] [center=true] [pos=-20 -2 24] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=M] [seq=4.5 8 4.5] [radius=0] [center=true] [pos=20 -2 24] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=lckHng] [genderOfs=F] [seq=3 17 3] [radius=4] [center=true] [pos=0 4 16] [ori=0 1 0 -1 0 0 0 0 1]

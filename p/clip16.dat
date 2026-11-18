@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Vertical Thick Clip for Flags"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-15 {StudLab} Initial info for clip16.dat
+
+0 //Added by StudLab (by-hand)
+
+0 //Holds a bar along Y around the origin, like clip5.dat, whose shadow entry this repeats.
+0 !LDCAD SNAP_CLP [radius=4] [length=8] [center=true]

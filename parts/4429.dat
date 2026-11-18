@@ -1,0 +1,23 @@
+0 LDCad shadow info for "Figure Flask with Handle (Needs Work)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=5 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 18] [center=false] [slide=true] [pos=4.5 14.264 27.165] [ori=-1 0 0 0 -0.9659 0.2588 0 0.2588 0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 16] [center=false] [slide=true] [pos=4.5 9.365 24.336] [ori=-1 0 0 0 0.2588 0.9659 0 0.9659 -0.2588]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 10] [center=true] [slide=true] [pos=0 10.4 28.2] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 18.5] [center=true] [slide=true] [pos=0 7.248 16.434] [ori=0 0 1 0.966 0.259 0 -0.259 0.966 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 22] [center=true] [slide=true] [pos=0 23.684 24.639] [ori=1 0 0 0 0.966 0.259 0 -0.259 0.966]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 5] [center=true] [slide=true] [pos=0 18 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 5] [center=false] [slide=true] [pos=0 20.5 0] [ori=1 0 0 0 1 0 0 0 1]

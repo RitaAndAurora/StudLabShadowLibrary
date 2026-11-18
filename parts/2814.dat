@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Technic Excavator Bucket 14 x 8 with 7 Teeth"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-42.0,0.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=-46 0 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 //StudLab seat [50.0,0.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=46 0 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 //StudLab seat [-54.0,60.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=-58 60 0] [ori=0 1 0 1 0 0 0 0 -1]
+0 //StudLab seat [62.0,60.0,0.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 8] [center=true] [slide=true] [pos=58 60 0] [ori=0 1 0 1 0 0 0 0 -1]

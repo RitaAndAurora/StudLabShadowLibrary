@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Wheel Rim 28 x 60 with 3 Spokes and 3 Pegholes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=5 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole2] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 0 -20] [ori=-1 0 0 0 0 -1 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 12.5  R 6 16.5  R 8 3] [center=true] [slide=true] [pos=0 60 -15.5] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 12.5  R 6 16.5  R 8 3] [center=true] [slide=true] [pos=51.961 -30 -15.5] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 12.5  R 6 16.5  R 8 3] [center=true] [slide=true] [pos=-51.961 -30 -15.5] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre72] [gender=M] [bounding=cyl 72 36] [center=false] [pos=0 0 0] [ori=-1 0 0 0 0 1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre74] [gender=M] [bounding=cyl 74 36] [center=false] [pos=0 0 -12.5] [ori=-1 0 0 0 0 1 0 1 0]

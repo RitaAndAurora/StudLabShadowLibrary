@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Animal Snake Large with Raised Head"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 15] [center=true] [slide=true] [pos=4.825 -4.168 59.381] [ori=0 0.809 0.588 -1 0 0 0 -0.588 0.809]

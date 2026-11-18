@@ -1,0 +1,16 @@
+0 LDCad shadow info for "~Moved to 3433"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=3 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=hgPlA] [genderOfs=F] [seq=18 4 18] [radius=4] [center=true] [pos=-24 14 0] [ori=0 0 -1 1 0 0 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=29 4 14.5] [radius=4] [center=true] [pos=-26 8 -26.25] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=14.5 4 29] [radius=4] [center=true] [pos=-26 8 26.25] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=5] [radius=3] [center=true] [pos=-26 12 0] [ori=0 0 1 1 0 0 0 1 0]

@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Support Pole 1 x 20 Tepee"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [center=false] [pos=-18.598 5 -120.324] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [center=false] [pos=-19.531 5 -40.329] [ori=0.9999 0 -0.0117 0 1 0 0.0117 0 0.9999]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [center=false] [pos=-17.667 5 -200.319] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 78] [center=false] [slide=true] [pos=0 5 -309] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=true] [pos=0 5 -300] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [pos=0 10 0] [ori=-1 0 0 0 -1 0 0 0 1]

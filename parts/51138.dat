@@ -1,0 +1,48 @@
+0 LDCad shadow info for "=Technic Rotor 3 Blade with 6 Studs"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 20] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [0.0,0.0,40.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 40] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [17.32,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=17.32 0 -10] [ori=0.866 0 0.5 0 1 0 -0.5 0 0.866]
+0 //StudLab seat [34.641,0.0,-20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=34.641 0 -20] [ori=0.866 0 0.5 0 1 0 -0.5 0 0.866]
+0 //StudLab seat [-17.32,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-17.32 0 -10] [ori=-0.866 0 0.5 0 1 0 -0.5 0 -0.866]
+0 //StudLab seat [-34.641,0.0,-20.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-34.641 0 -20] [ori=-0.866 0 0.5 0 1 0 -0.5 0 -0.866]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-17.321,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-17.321 8 -10] [ori=-0.5 0 -0.866 0 1 0 0.866 0 -0.5]
+0 //StudLab seat [-34.641,8.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=-34.641 8 -20] [ori=-0.5 0 -0.866 0 1 0 0.866 0 -0.5]
+0 //StudLab seat [0.0,8.0,20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 8 20] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,8.0,40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 8 40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [17.321,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=17.321 8 -10] [ori=-0.5 0 0.866 0 1 0 -0.866 0 -0.5]
+0 //StudLab seat [34.641,8.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=34.641 8 -20] [ori=-0.5 0 0.866 0 1 0 -0.866 0 -0.5]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 20] [ori=0 0 1 0 -1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 40] [ori=0 0 1 0 -1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 5] [center=false] [pos=0 3 30] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=17.32 -4 -10] [ori=0.866 0 -0.5 0 -1 0 -0.5 0 -0.866]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=34.641 -4 -20] [ori=0.866 0 -0.5 0 -1 0 -0.5 0 -0.866]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 5] [center=false] [pos=25.981 3 -15] [ori=0.5 0 0.866 0 -1 0 0.866 0 -0.5]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-17.32 -4 -10] [ori=-0.866 0 -0.5 0 -1 0 -0.5 0 0.866]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-34.641 -4 -20] [ori=-0.866 0 -0.5 0 -1 0 -0.5 0 0.866]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 5] [center=false] [pos=-25.981 3 -15] [ori=0.5 0 -0.866 0 -1 0 -0.866 0 -0.5]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 8] [center=false] [slide=true] [pos=0 8 0] [ori=1 0 0 0 1 0 0 0 1]

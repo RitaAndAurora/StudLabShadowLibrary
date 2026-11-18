@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Flag 8 x 3 with Rod with "High Tea Requires" and United Kingdom Flag Left Model Stickers"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=studlab antistuds=none printof=30292b.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=estimated
+0 //StudLab seat [0.0,30.0,0.0,0.0,-1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 6] [center=true] [slide=true] [pos=0 27 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 48] [center=false] [pos=0 24 0] [ori=1 0 0 0 1 0 0 0 1]

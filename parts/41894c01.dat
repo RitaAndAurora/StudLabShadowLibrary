@@ -1,0 +1,50 @@
+0 LDCad shadow info for "Technic Steering Arm With 2 Ball Joints (Complete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=8 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [20.0,3.997,-30.0,0.0,0.0,-1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=20 3.997 -30] [ori=0 0 1 -1 0 0 0 -1 0]
+0 //StudLab seat [20.0,3.997,30.0,0.0,0.0,1.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=20 3.997 30] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [100.0,-38.0,0.0,0.0,1.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 20] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -20] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=40 0 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=60 0 0] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 8 2  R 6 8] [center=true] [pos=100 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 8  R 8 2] [center=true] [pos=100 -40 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=steerHub1] [gender=F] [bounding=cyl 8 15] [center=false] [pos=100 -20 0] [ori=0 0 -1 0 1 0 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6  R 8 2] [center=true] [slide=true] [pos=100 -41 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6] [center=true] [slide=true] [pos=100 1 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [placement=free] [center=false] [pos=100 -20 -40] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [placement=free] [center=false] [pos=100 -20 40] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=steerHub1] [gender=M] [bounding=cyl 8 15] [center=false] [pos=100 -20 0] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 10 3  R 9 4  R 10 23] [center=false] [pos=96 -20 0] [ori=0 -1 0 0 0 -1 1 0 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=140 -40 0] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=140 -10 17.321] [ori=0 -1 0 0.5 0 -0.866 0.866 0 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=140 -10 -17.321] [ori=0 -1 0 -0.5 0 -0.866 0.866 0 -0.5]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 10 23  R 8.5 4  _L 10 3] [center=false] [slide=true] [pos=126 -20 0] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 5.5] [center=false] [slide=true] [pos=100 -45 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 8 2  R 6 5.5] [center=false] [slide=true] [pos=100 5 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

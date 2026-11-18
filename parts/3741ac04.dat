@@ -1,0 +1,28 @@
+0 LDCad shadow info for "Plant Flower Stem Green with Three Roses"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=-0.866 0 -0.5 0 1 0 0.5 0 -0.866]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,12.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 12 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 6] [center=false] [pos=0 -15.696 14.456] [ori=-1 0 0 0 0.9659 -0.2588 0 -0.2588 -0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 6] [center=false] [pos=-13.64 -20.526 -7.875] [ori=0.5 0.2241 0.8365 -0 0.9659 -0.2588 -0.866 0.1294 0.483]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 6] [center=false] [pos=14.761 -25.356 -8.522] [ori=0.5 -0.2241 -0.8365 -0 0.9659 -0.2588 0.866 0.1294 0.483]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 5] [center=false] [pos=0 7 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 6] [center=false] [pos=0 -15.696 14.456] [ori=1 0 0 0 0.9659 0.2588 0 -0.2588 0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2 13] [center=false] [pos=0 -15.696 14.456] [ori=1 0 0 0 0.9659 0.2588 0 -0.2588 0.9659]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 6] [center=false] [pos=-13.64 -20.526 -7.875] [ori=-0.5 0.2241 -0.8365 0 0.9659 0.2588 0.866 0.1294 -0.483]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2 13] [center=false] [pos=-13.64 -20.526 -7.875] [ori=-0.5 0.2241 -0.8365 0 0.9659 0.2588 0.866 0.1294 -0.483]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 6] [center=false] [pos=14.761 -25.356 -8.522] [ori=-0.5 -0.2241 0.8365 0 0.9659 0.2588 -0.866 0.1294 -0.483]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 2 13] [center=false] [pos=14.761 -25.356 -8.522] [ori=-0.5 -0.2241 0.8365 0 0.9659 0.2588 -0.866 0.1294 -0.483]

@@ -1,0 +1,14 @@
+0 LDCad shadow info for "Bar 1 L with Three Prongs"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 4] [center=false] [pos=-6.064 -15.864 0] [ori=0.7071 0.7071 0 -0.7071 0.7071 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 4] [center=false] [pos=3.513 -22.03 -6.085] [ori=0.383 -0.3214 0.866 0.6428 0.766 0 -0.6634 0.5567 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 4] [center=false] [pos=3.332 -17.765 5.772] [ori=0.3536 -0.3536 -0.866 0.7071 0.7071 0 0.6124 -0.6124 0.5]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 11] [center=false] [pos=0 -7 0] [ori=1 0 0 0 -1 0 0 0 -1]

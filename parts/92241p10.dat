@@ -1,0 +1,13 @@
+0 LDCad shadow info for "Figure Friends Girl Torso with White Plaid Button Top over Lavender Shirt Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 11] [center=false] [slide=true] [pos=0 -7.1 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 7  R 3.5 8  R 2 7] [center=true] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=frdsHps] [gender=F] [bounding=box 8 4 4] [center=false] [pos=0 14 -1] [ori=1 0 0 0 1 0 0 0 1]

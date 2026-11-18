@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Plant Flower Stem with Bar and Hole"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=B] [secs=R 4 8  R 6 5] [center=false] [slide=true] [pos=0 20 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 27.5  R 2 5] [center=false] [slide=true] [pos=-7.575 -0 -4.373] [ori=-0.5 0.4967 -0.7094 0 0.8192 0.5736 0.866 0.2868 -0.4096]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 22.5  R 2 5] [center=false] [slide=true] [pos=7.575 -0 -4.373] [ori=-0.5 -0.4967 0.7094 0 0.8192 0.5736 -0.866 0.2868 -0.4096]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2.25 16  R 2 5] [center=false] [slide=true] [pos=0 -0 8.747] [ori=1 0 0 0 0.8191 0.5736 0 -0.5736 0.8191]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 8] [center=false] [pos=0 0 0] [ori=1 0 0 0 -1 0 0 0 -1]

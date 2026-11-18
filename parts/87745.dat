@@ -1,0 +1,19 @@
+0 LDCad shadow info for "Technic Pin Joiner Round Curved with Fin and Hole"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,0.0,17.0,0.0,0.0,1.0]
+0 //StudLab seat [4.975,0.0,42.01,-0.383,0.0,-0.924]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 9] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=8.037 0 49.401] [ori=-0.9239 -0.3827 0 -0 0 -1 0.3827 -0.9239 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 20] [center=true] [slide=true] [pos=0 0 30] [ori=1 0 0 0 1 0 0 0 1]

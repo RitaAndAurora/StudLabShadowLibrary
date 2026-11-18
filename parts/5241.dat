@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Windscreen 6 x 4 x 1.667 Wedge Angled"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=5 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-29.99,-2.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-29.99 -2 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.01,-2.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30.01 -2 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-29.99,-1.5,30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=-29.99 -1.5 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.01,-1.5,30.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=30.01 -1.5 30] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 5.576] [center=false] [pos=0 -5.576 -50] [ori=-1 0 0 0 -1 0 0 0 1]

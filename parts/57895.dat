@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Glass for Window 1 x 4 x 6"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=132] [radius=4] [center=true] [pos=-32.5 66 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=132] [radius=4] [center=true] [pos=32.5 66 0] [ori=1 0 0 0 1 0 0 0 1]

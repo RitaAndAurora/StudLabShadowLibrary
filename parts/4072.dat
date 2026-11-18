@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Door 2 x 6 x 7 with Four Panes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [-92.0,4.0,-2.5,0.0,0.0,-1.0,8.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 8] [center=false] [pos=-92 4 -2.5] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=152] [radius=2] [center=true] [pos=0 0 0] [ori=1 0 0 0 1 0 0 0 1]

@@ -1,0 +1,14 @@
+0 LDCad shadow info for "Wheel Rim 6.4 x 11 with 8 Y-Shaped Spokes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 11  R 5 1] [center=false] [pos=0 0 8] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre12] [gender=M] [bounding=cyl 12 8] [center=false] [pos=0 0 0.5] [ori=-1 0 0 0 0 1 0 1 0]

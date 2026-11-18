@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Exhaust Pipe"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 21.5] [center=true] [slide=true] [pos=0 0 -19.25] [ori=0 0 1 1 0 0 0 1 0]

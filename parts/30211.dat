@@ -1,0 +1,37 @@
+0 LDCad shadow info for "Support Insectoid Leg Small"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,8.0,-70.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 8 -70] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [-8.0,-54.0,-10.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-8 -54 -10] [ori=0 1 0 0 0 -1 -1 0 0]
+0 //StudLab seat [8.0,-54.0,-10.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=8 -54 -10] [ori=0 -1 0 0 0 1 -1 0 0]
+0 //StudLab seat [0.0,0.0,50.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 50] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [0.0,0.0,70.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 70] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,16.0,-70.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 4] [center=false] [pos=0 12 -70] [ori=-1 0 0 -0 -1 0 -0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,16.0,50.0,0.0,1.0,0.0]
+0 //StudLab seat [0.0,8.0,70.0,0.0,1.0,0.0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 4 -70] [ori=0 0 -1 0 -1 0 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 12  R 4 8] [center=false] [pos=0 16 50] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 4  R 4 8] [center=false] [pos=0 8 70] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 8] [center=false] [pos=0 8 50] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 24] [center=true] [pos=0 -54 -10] [ori=0 1 0 -1 0 0 0 0 1]

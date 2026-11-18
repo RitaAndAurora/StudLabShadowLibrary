@@ -1,0 +1,27 @@
+0 LDCad shadow info for "Technic Steering Wheel Hub for Portal Axle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=4 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,0.0,35.5,0.0,0.0,1.0,21.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 21] [center=false] [slide=true] [pos=0 0 35.5] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=0 -20 -10] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=17.321 10 -10] [ori=-0.866 0 -0.5 -0.5 0 0.866 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=-17.321 10 -10] [ori=0.866 0 -0.5 -0.5 0 -0.866 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 28 5  R 14 8  R 10 18  R 9 6  _L 10 4] [center=false] [slide=true] [pos=0 0 -5] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 10 13  R 9 2  A 6 10  R 6 21] [center=false] [slide=true] [pos=0 0 -10] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=nudge1] [gender=F] [bounding=sph 6] [center=false] [pos=0 0 30] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 20] [center=true] [slide=true] [pos=0 -20 -20] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 20] [center=true] [slide=true] [pos=17.321 10 -20] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 20] [center=true] [slide=true] [pos=-17.321 10 -20] [ori=0 0 1 1 0 0 0 1 0]

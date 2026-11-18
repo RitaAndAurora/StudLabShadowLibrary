@@ -1,0 +1,47 @@
+0 LDCad shadow info for "Train Track Roller Coaster Ramp 4 x 16 x 6 S-Shape Lower"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=4 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [300.0,144.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=300 144 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [300.0,144.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=300 144 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [300.0,152.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=300 152 -10] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [300.0,152.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=300 152 10] [ori=0 0 -1 0 1 0 1 0 0]
+0 //StudLab seat [0.0,8.0,10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 8 10] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [0.0,8.0,-10.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 8 -10] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=0 4 0] [ori=-0 0 1 -0 -1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 4] [center=false] [pos=300 148 0] [ori=0 0 -1 0 -1 0 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 34] [center=true] [slide=true] [pos=138.4 88.4 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 34] [center=true] [slide=true] [pos=192.7 113.9 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 34] [center=true] [slide=true] [pos=87.3 56.9 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 34] [center=true] [slide=true] [pos=39.5 20.5 0] [ori=1 0 0 0 0 1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 34] [center=true] [slide=true] [pos=250.2 131.1 0] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=coaster] [gender=M] [bounding=pnt] [center=false] [pos=-10 -36.834 0] [ori=0 0.652 -0.758 0 -0.758 -0.652 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=coaster] [gender=F] [bounding=pnt] [center=false] [pos=-10 -36.834 0] [ori=0 0.652 0.758 0 -0.758 0.652 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=coaster] [gender=M] [bounding=pnt] [center=false] [pos=310 126.159 0] [ori=0 0.053 0.999 0 -0.999 0.053 1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=coaster] [gender=F] [bounding=pnt] [center=false] [pos=310 126.159 0] [ori=0 0.053 -0.999 0 -0.999 -0.053 -1 0 0]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z]

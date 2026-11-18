@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Electric Cable Grey with Plugs (Type 4) Twin Extra-Wide/Normal"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=3 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=elecpin] [scale=none] [mirror=cor] [group=elec] [gender=M] [caps=one] [secs=R 3.5 14] [center=false] [pos=17.5 0 -184] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=elecpin] [scale=none] [mirror=cor] [group=elec] [gender=M] [caps=one] [secs=R 3.5 14] [center=false] [pos=-17.5 0 -184] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 4 15] [center=true] [slide=true] [pos=0 0 -176.5] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [id=elecpin] [scale=none] [mirror=cor] [group=elec] [gender=M] [caps=one] [secs=R 3.5 14] [center=false] [pos=-10 0 184] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=elecsck] [scale=none] [mirror=cor] [group=elec] [gender=F] [caps=none] [secs=R 3.5 7] [center=true] [slide=true] [pos=-10 0 177] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=elecpin] [scale=none] [mirror=cor] [group=elec] [gender=M] [caps=one] [secs=R 3.5 14] [center=false] [pos=10 0 184] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=elecsck] [scale=none] [mirror=cor] [group=elec] [gender=F] [caps=none] [secs=R 3.5 7] [center=true] [slide=true] [pos=10 0 177] [ori=-1 0 0 0 1 0 0 0 -1]

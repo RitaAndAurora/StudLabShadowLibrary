@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Duplo Brick 1 x 2 x 2 with Red Grill and Hot Dog Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none printof=4066b.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=-20 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=-20 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=dupstud] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 12 11] [center=false] [pos=20 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 9 11] [center=false] [pos=20 0 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 12 92] [center=false] [pos=-20 96 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 12 92] [center=false] [pos=20 96 0] [ori=1 0 0 0 1 0 0 0 1]

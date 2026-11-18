@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Minifig Teddy Bear with Arms Down with Tan Belly and Muzzle and Black Nose and Eyes Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=2 studs=none antistuds=shadow printof=98382.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,1.0,0.0,5.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 5] [center=false] [pos=0 -5 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 11.5] [center=true] [slide=true] [pos=0 -38.75 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 4.5] [center=true] [slide=true] [pos=0 -27.25 0] [ori=1 0 0 0 1 0 0 0 1]

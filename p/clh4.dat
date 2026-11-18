@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Click Lock Hinge Half Dual Finger - 4.5LDU"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-15 {StudLab} Initial info for clh4.dat
+
+0 //Added by StudLab (by-hand)
+
+0 //One outer finger of a dual-finger hinge, 3 to 8.5 LDU along X, turning about the X axis 4 LDU from its base (as in 54671.dat, which uses two, one mirrored).
+0 !LDCAD SNAP_FGR [group=lckHng] [genderOfs=M] [seq=5.5] [pos=5.75 0 4] [ori=0 1 0 -1 0 0 0 0 1] [mirror=cor]

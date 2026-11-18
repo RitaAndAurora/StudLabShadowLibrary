@@ -1,0 +1,23 @@
+0 LDCad shadow info for "Constraction Limb 3 x 7 Bent 53.13"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=4 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=10 0 -20] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 19.5] [center=false] [slide=true] [pos=0 0.5 -40] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 19.5] [center=false] [slide=true] [pos=0 -0.5 -40] [ori=-1 0 0 0 1 0 0 0 -1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=techBallJnt] [gender=F] [bounding=sph 12.7] [placement=free] [center=false] [pos=0 0 -60] [ori=0 1 0 1 0 0 0 0 -1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=A 6 7  R 4 1.5  A 6 7.5] [center=true] [slide=true] [pos=0 0 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 24.5] [center=true] [slide=true] [pos=0 4.16 26.72] [ori=1 0 0 0 0.937 -0.35 0 0.35 0.937]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 8 1  R 10 1  R 11.5 1.5  R 12 3.5  R 12.5 1.5  R 12 4  R 11.5 1  R 11 1  R 10 1  R 8 1  R 6 1  A 6 19.5] [center=true] [slide=true] [pos=0 35.231 52.83] [ori=1 0 0 0 0.554 -0.833 0 0.833 0.554]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 13] [placement=free] [center=false] [pos=0 40 60] [ori=1 0 0 0 1 0 0 0 1]

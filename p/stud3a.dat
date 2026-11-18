@@ -1,0 +1,11 @@
+0 LDCad shadow info for "Stud Tube Solid without Base Edges"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-10-15 {StudLab} Initial info for stud3a.dat
+
+0 //Added by StudLab (by-hand)
+
+0 //The same shape as stud3.dat, whose shadow entry this repeats.
+0 !LDCAD SNAP_CYL [id=stud3] [gender=M] [caps=one] [secs=R 4 4] [scale=YOnly]

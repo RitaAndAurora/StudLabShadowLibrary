@@ -1,0 +1,89 @@
+0 LDCad shadow info for "Monorail Track Point Left (Straight)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=7 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [26.2,9.0,-70.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=26.2 9 -70] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [46.2,9.0,-70.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=46.2 9 -70] [ori=0 0 1 0 1 0 -1 0 0]
+0 //StudLab seat [310.0,10.0,32.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=310 10 32] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [310.0,10.0,-32.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=310 10 -32] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [290.0,10.0,32.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=290 10 32] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [290.0,10.0,-32.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=290 10 -32] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [-310.0,10.0,-32.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-310 10 -32] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [-310.0,10.0,32.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-310 10 32] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [-290.0,10.0,-32.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-290 10 -32] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [-290.0,10.0,32.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-290 10 32] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [80.707,10.0,116.868,0.707,0.0,-0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=80.707 10 116.868] [ori=-0.7071 -0.7071 0 0 0 1 -0.7071 0.7071 0]
+0 //StudLab seat [94.852,10.0,131.0,0.707,0.0,-0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=94.852 10 131] [ori=-0.7071 -0.7071 0 0 0 1 -0.7071 0.7071 0]
+0 //StudLab seat [51.012,10.0,174.851,-0.707,0.0,0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=51.012 10 174.851] [ori=0.7071 0.7071 0 0 0 1 0.7071 -0.7071 0]
+0 //StudLab seat [36.868,10.0,160.709,-0.707,0.0,0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=36.868 10 160.709] [ori=0.7071 0.7071 0 0 0 1 0.7071 -0.7071 0]
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-20.0,25.0,40.0,0.0,1.0,0.0,14.0]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 14] [center=false] [pos=-20 11 40] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [-30.0,25.0,30.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-30 25 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-30.0,25.0,50.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-30 25 50] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,25.0,30.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-10 25 30] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,25.0,50.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-10 25 50] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [310.0,25.0,10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=310 25 10] [ori=-1 0 0 0 1 0 0 0 -1]
+0 //StudLab seat [310.0,25.0,-10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=310 25 -10] [ori=-1 0 0 0 1 0 0 0 -1]
+0 //StudLab seat [-310.0,25.0,-10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-310 25 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-310.0,25.0,10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=-310 25 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [90.0,25.0,150.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=90 25 150] [ori=-1 0 0 0 1 0 0 0 -1]
+0 //StudLab seat [70.0,25.0,150.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=70 25 150] [ori=-1 0 0 0 1 0 0 0 -1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 5 4] [center=false] [pos=-164.797 9 -32.843] [ori=-0.684 0 -0.7294 -0 -1 0 -0.7295 0 0.6841]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 5 4] [center=false] [pos=-103.203 9 32.843] [ori=-0.684 0 -0.7294 -0 -1 0 -0.7295 0 0.6841]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 3.5 3] [center=false] [pos=-177.453 13 11.774] [ori=-0.684 0 -0.7294 -0 -1 0 -0.7295 0 0.6841]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 3.5 3] [center=false] [pos=-148.538 13 42.61] [ori=-0.684 0 -0.7294 -0 -1 0 -0.7295 0 0.6841]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 3.5 3] [center=false] [pos=-101.054 9 -31.072] [ori=0.684 0 -0.7294 -0 1 0 0.7295 0 0.6841]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 3.5 3] [center=false] [pos=-14.814 16 -0.136] [ori=-0.977 0 0.213 0 1 0 -0.213 0 -0.977]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 3.5  R 3.5 3.75] [center=false] [pos=-164.79 13 -32.836] [ori=-0.977 0 0.213 0 1 0 -0.213 0 -0.977]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 3.5 3] [center=false] [pos=-148.536 16 42.612] [ori=0.9432 0 -0.3322 0 1 0 0.3322 0 0.9432]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 5 3.5  R 3.5 3.75] [center=false] [pos=-3.752 13 93.598] [ori=0.9432 0 -0.3322 0 1 0 0.3322 0 0.9432]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=310 10 36] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=310 10 -36] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=290 10 36] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=290 10 -36] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-310 10 -36] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-310 10 36] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-290 10 -36] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-290 10 36] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=83.535 10 114.04] [ori=-0.7071 0.7071 0 0 0 -1 -0.7071 -0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=97.68 10 128.172] [ori=-0.7071 0.7071 0 0 0 -1 -0.7071 -0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=48.184 10 177.679] [ori=0.7071 -0.7071 0 0 0 -1 0.7071 0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=34.04 10 163.537] [ori=0.7071 -0.7071 0 0 0 -1 0.7071 0.7071 0]

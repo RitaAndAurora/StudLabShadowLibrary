@@ -1,0 +1,26 @@
+0 LDCad shadow info for "Figure Friends Girl Torso with Arms with Magenta and Bright Light Orange Strapless Top with Belt Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=7 studs=shadow antistuds=none printof=92456.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=library
+0 //StudLab seat [26.0,14.7,4.2,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=26 14.7 4.2] [ori=1 0 0 0 0 -1 0 1 0]
+0 //StudLab seat [-26.0,14.7,4.2,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-26 14.7 4.2] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 11] [center=false] [slide=true] [pos=0 -19.9 3.9] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 2 7  R 3.5 8  R 2 7] [center=true] [pos=0 -12.8 3.9] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=frdsHps] [gender=F] [bounding=box 8 4 4] [center=false] [pos=0 1.2 2.9] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 7  _L 2.5 2  R 2 1] [center=false] [pos=11 -12.8 3.9] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=false] [pos=26 14.7 11.2] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 2 7  _L 2.5 2  R 2 1] [center=false] [pos=-11 -12.8 3.9] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-26 14.7 5.9] [ori=0 0 1 1 0 0 0 1 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=11] [center=true] [pos=-26 14.7 5.5] [ori=0 0 1 1 0 0 0 1 0]

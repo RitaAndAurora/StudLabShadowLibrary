@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Constraction Finger Angled with Clip"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 18.5] [center=true] [slide=true] [pos=0 -5.966 17.739] [ori=1 0 0 0 0.857 0.515 0 -0.515 0.857]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 14] [center=true] [slide=true] [pos=0 -18.397 22.47] [ori=1 0 0 0 0.993 0.122 0 -0.122 0.993]

@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Door 1 x 4 x 6 with 6 Panes, Handle and Hole for Pet Flap"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=1 studs=shadow antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [57.0,65.0,-3.75,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=57 65 -3.75] [ori=0 0 1 1 0 0 0 1 0]
+0 //StudLab seat [57.0,65.0,3.75,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=57 65 3.75] [ori=0 0 -1 1 0 0 0 -1 0]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=57 65 -7.75] [ori=0 0 -1 1 0 0 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=57 65 7.75] [ori=0 0 1 1 0 0 0 1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=door] [genderOfs=M] [seq=4.5 7 4.5] [radius=6] [center=true] [pos=57 65 0] [ori=0 0 1 1 0 0 0 1 0]

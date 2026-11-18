@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Technic Gear Ring Quarter 11 x 11 with 35 Teeth with Crushing Hazard Danger Sign on Yellow Background and Red and White Danger Stripes Leaning Left Stickers"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none printof=24121.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-193.185 0 51.764] [ori=0.9659 0 0.2588 0 1 0 -0.2588 0 0.9659]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=-141.421 10 141.421] [ori=-0.7071 0 -0.7071 0 1 0 0.7071 0 -0.7071]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-173.205 0 100] [ori=0.866 0 0.5 0 1 0 -0.5 0 0.866]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-100 0 173.205] [ori=0.5 0 0.866 0 1 0 -0.866 0 0.5]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-51.764 0 193.185] [ori=0.2588 0 0.9659 0 1 0 -0.9659 0 0.2588]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-160 0 120] [ori=0.8 0 0.6 0 1 0 -0.6 0 0.8]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-120 0 160] [ori=0.6 0 0.8 0 1 0 -0.8 0 0.6]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-28.284 0 197.99] [ori=0.1414 0 0.9899 0 1 0 -0.9899 0 0.1414]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-197.99 0 28.284] [ori=0.9899 0 0.1414 0 1 0 -0.1414 0 0.9899]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=0 10 200] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=-200 10 0] [ori=1 0 0 -0 1 0 -0 0 1]

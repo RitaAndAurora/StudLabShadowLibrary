@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Figure Friends Hips and Legs with Cargo Pants (Thick Hinge)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=frdsHps] [gender=M] [bounding=box 8 4 4] [center=false] [pos=0 -62.8 2.9] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=frdsHps] [genderOfs=M] [seq=8] [radius=4] [center=true] [pos=0 -47.4 2.7] [ori=0 -1 0 1 0 0 0 0 1]

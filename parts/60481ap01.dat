@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Slope Brick 65 2 x 1 x 2 with Silver Star and Bright Light Blue Triangle Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=shadow antistuds=shadow printof=60481a.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,48.0,0.0,0.0,1.0,0.0,44.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 44] [center=false] [pos=0 48 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,48.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 48 -20] [ori=1 0 0 0 1 0 0 0 1]

@@ -1,0 +1,60 @@
+0 LDCad shadow info for "Bike 2 Wheel Motorcycle with Trans-Clear Wheels (Complete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=4 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [-12.0,10.0,-10.0,-1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-12 10 -10] [ori=0 1 0 -0.0698 0 0.9976 0.9976 0 0.0698]
+0 //StudLab seat [0.0,0.0,-10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,0.0,10.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,10.0,20.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 10 20] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [12.0,10.0,-10.0,1.0,0.0,0.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=12 10 -10] [ori=0 -1 0 0.0698 0 0.9976 -0.9976 0 0.0698]
+0 //StudLab seat [0.0,-13.639,-85.127,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 -13.639 -85.127] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,40.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=0 40 -40] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 -10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -4 10] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 10 24] [ori=1 0 0 0 0 -1 0 1 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=figBike3Frame] [gender=F] [bounding=box 15 25 45] [center=false] [pos=0 16 -25] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=figBike3Frame] [gender=M] [bounding=box 15 25 45] [center=false] [pos=0 16 -25] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=0 -13.639 -89.129] [ori=1 0 0 0 -0 1 0 -1 -0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [id=motorcyclewindshield] [scale=none] [mirror=none] [gender=M] [bounding=box 7 2 7] [center=false] [pos=0 -12.109 -77.96] [ori=1 0 0 0 -0.3829 0.9238 0 -0.9238 -0.3829]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 24] [center=true] [slide=true] [pos=0 -21.361 -67.628] [ori=0 1 0 -1 0 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 30 0] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 30 0] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 3] [center=false] [pos=0 30 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=sglWhlAxle] [gender=F] [bounding=cyl 4 15] [center=false] [pos=0 30 -90] [ori=0 1 0 0 0 1 1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 12] [center=false] [pos=-4 30 -90] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=rim8_6] [gender=F] [bounding=cyl 8 3] [center=false] [pos=0 30 -90] [ori=0 1 0 0 0 -1 -1 0 0]

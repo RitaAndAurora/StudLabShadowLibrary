@@ -1,0 +1,13 @@
+0 LDCad shadow info for "Stud Tube Open with  4 Fillets Narrow"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 !HISTORY 2026-11-09 {StudLab} Initial info for stud4f4n.dat
+
+0 //Added by StudLab (by-hand)
+
+0 //The tube under a brick, where a single stud fits (the shadow library's stud4.dat has it commented out, until
+0 //LDCad can match several connections at once; StudLab's snapping prefers places with more studs). Closed at the
+0 //primitive's origin, which parts put at the top of the tube, as the library's stud4o.dat has it.
+0 !LDCAD SNAP_CYL [id=aStud] [gender=F] [caps=A] [secs=R 6 4] [scale=YOnly]

@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Animal Dragon Head Oriental"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 8] [center=false] [pos=9.54 -14.8 -23.4] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=4] [length=7] [center=false] [pos=19.04 -37.427 -5.736] [ori=0.0175 0.9998 0 0.6017 -0.0105 0.7986 0.7985 -0.0139 -0.6018]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 10] [center=false] [pos=14.89 -5.88 -51.88] [ori=0 1 0 0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 8] [center=false] [pos=-9.54 -14.8 -23.4] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 10] [center=false] [pos=-14.89 -5.88 -51.88] [ori=-0 -1 0 -0 0 1 -1 0 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [group=dragonHead] [genderOfs=M] [seq=6 22 6] [radius=2] [center=true] [pos=0 0 0] [ori=0 1 0 -1 0 0 0 0 1]

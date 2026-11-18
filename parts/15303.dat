@@ -1,0 +1,15 @@
+0 LDCad shadow info for "Bar 1 x 8 with Round End"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=B] [secs=R 4 61  R 5.5 9  R 4 35.9  R 4 45.1] [center=false] [slide=true] [pos=0 0 0] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=shooter] [gender=M] [bounding=cyl 8 25] [center=false] [pos=0 0 -111] [ori=1 0 0 0 0 1 0 -1 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=M] [bounding=sph 8] [placement=free] [center=false] [pos=0 0 -151] [ori=1 0 0 0 1 0 0 0 1]

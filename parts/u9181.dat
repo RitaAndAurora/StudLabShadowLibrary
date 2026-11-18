@@ -1,0 +1,19 @@
+0 LDCad shadow info for "~Technic Motor Pull Back 5 x 7 x 3 Type 6 Left (needs work)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=10 -80 120] [ori=-0 1 0 -0 0 1 1 0 0]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 10] [center=false] [slide=true] [pos=0 0 0] [ori=-0 -1 0 1 0 0 -0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=10 0 80] [ori=-0 1 0 1 0 0 -0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=10 0 60] [ori=-0 1 0 1 0 0 -0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=10 0 40] [ori=-0 1 0 1 0 0 -0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=10 0 20] [ori=-0 1 0 1 0 0 -0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 6  R 8 2] [center=false] [slide=true] [pos=10 -60 120] [ori=-0 1 0 1 0 0 -0 0 -1]

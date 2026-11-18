@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Minifig Dynamite Sticks Bundle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 16] [center=false] [pos=-7 16 4] [ori=0.515 0 -0.8572 0 1 0 0.8572 0 0.515]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 16] [center=false] [pos=0 16 -8] [ori=-0.9998 0 -0.0175 0 1 0 0.0175 0 -0.9998]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 16] [center=false] [pos=7 16 4] [ori=0.4848 0 0.8746 0 1 0 -0.8746 0 0.4848]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 18] [center=false] [pos=-7 20 4] [ori=-0.4848 0 -0.8746 0 -1 0 -0.8746 0 0.4848]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 18] [center=false] [pos=6.892 20 3.938] [ori=-0.515 0 0.8572 0 -1 0 0.8572 0 0.515]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 18] [center=false] [pos=-0 20 -8.124] [ori=0.9998 0 0.0175 0 -1 0 0.0175 0 -0.9998]

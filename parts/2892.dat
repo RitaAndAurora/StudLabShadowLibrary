@@ -1,0 +1,46 @@
+0 LDCad shadow info for "Monorail Track Curve Short Left"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=2 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [390.0,10.0,-128.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=390 10 -128] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [390.0,10.0,-192.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=390 10 -192] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [370.0,10.0,-128.0,0.0,0.0,1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=370 10 -128] [ori=1 0 0 0 0 1 0 -1 0]
+0 //StudLab seat [370.0,10.0,-192.0,0.0,0.0,-1.0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=370 10 -192] [ori=-1 0 0 0 0 1 0 1 0]
+0 //StudLab seat [-0.709,10.0,-43.132,-0.707,0.0,-0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-0.709 10 -43.132] [ori=-0.7071 0.7071 0 0 0 1 0.7071 0.7071 0]
+0 //StudLab seat [-14.851,10.0,-28.988,-0.707,0.0,-0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=-14.851 10 -28.988] [ori=-0.7071 0.7071 0 0 0 1 0.7071 0.7071 0]
+0 //StudLab seat [29.0,10.0,14.852,0.707,0.0,0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=29 10 14.852] [ori=0.7071 -0.7071 0 0 0 1 -0.7071 -0.7071 0]
+0 //StudLab seat [43.132,10.0,0.707,0.707,0.0,0.707]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=43.132 10 0.707] [ori=0.7071 -0.7071 0 0 0 1 -0.7071 -0.7071 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [390.0,25.0,-150.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=390 25 -150] [ori=-1 0 0 0 1 0 0 0 -1]
+0 //StudLab seat [390.0,25.0,-170.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=390 25 -170] [ori=-1 0 0 0 1 0 0 0 -1]
+0 //StudLab seat [10.0,25.0,-10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=10 25 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,25.0,10.0,0.0,1.0,0.0,9.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 9] [center=false] [pos=10 25 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=390 10 -124] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=390 10 -196] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=370 10 -124] [ori=1 0 0 0 0 -1 0 1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=370 10 -196] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-3.537 10 -45.96] [ori=-0.7071 -0.7071 0 0 0 -1 0.7071 -0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=-17.679 10 -31.816] [ori=-0.7071 -0.7071 0 0 0 -1 0.7071 -0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=31.828 10 17.68] [ori=0.7071 0.7071 0 0 0 -1 -0.7071 0.7071 0]
+0 !LDCAD SNAP_CYL [id=studo] [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4] [center=false] [pos=45.96 10 3.535] [ori=0.7071 0.7071 0 0 0 -1 -0.7071 0.7071 0]

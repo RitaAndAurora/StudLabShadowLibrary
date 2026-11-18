@@ -1,0 +1,18 @@
+0 LDCad shadow info for "Bucket 1 x 1 x 1 Conical with Raised Handle"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,38.185,0.0,0.0,1.0,0.0,5.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 5] [center=false] [pos=0 38.185 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 10 3] [center=false] [pos=0 14.185 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=M] [seq=1 26 1] [radius=2] [center=true] [pos=0 17.5 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_FGR [scale=none] [mirror=none] [genderOfs=F] [seq=1 26 1] [radius=2] [center=true] [pos=0 17.5 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 4 12] [center=true] [slide=true] [pos=0 0 0] [ori=0 1 0 0 0 -1 -1 0 0]

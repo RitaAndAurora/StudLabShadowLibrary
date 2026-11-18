@@ -1,0 +1,23 @@
+0 LDCad shadow info for "Scala Towel Bar 1 x 5"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=7 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [-30.0,0.0,0.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6] [center=true] [slide=true] [pos=-30 -3 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [-10.0,0.0,0.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6] [center=true] [slide=true] [pos=-10 -3 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [10.0,0.0,0.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6] [center=true] [slide=true] [pos=10 -3 0] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [30.0,0.0,0.0,0.0,1.0,0.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 6] [center=true] [slide=true] [pos=30 -3 0] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 10.5] [center=true] [slide=true] [pos=43 -11.25 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 10.5] [center=true] [slide=true] [pos=-43 -11.25 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 4 75] [center=true] [slide=true] [pos=0 -22 0] [ori=0 1 0 -1 0 0 0 0 1]

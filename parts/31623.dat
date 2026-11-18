@@ -1,0 +1,14 @@
+0 LDCad shadow info for "Duplo Axle 8 with Gear 8 Tooth"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=A 9 240] [center=false] [slide=true] [pos=80 0 0] [ori=0 1 0 0 0 -1 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=A 9 40] [center=false] [slide=true] [pos=120 0 0] [ori=0 -1 0 0 0 1 -1 0 0]
+
+0 !LDCAD MIRROR_INFO [baseFlip=Z] [counterPart=self]

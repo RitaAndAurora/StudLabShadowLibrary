@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Figure Fabuland Torso with Red Bow Tie and White Outline Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4  R 5 8.5] [center=false] [slide=true] [pos=-23 -26 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [gender=F] [bounding=sph 10] [placement=free] [center=false] [pos=0 -30 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=fabHipBar] [gender=F] [bounding=sph 15] [center=false] [pos=0 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=fabLeg] [gender=F] [bounding=box 10 10 10] [center=false] [pos=-10 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=fabLeg] [gender=F] [bounding=box 10 10 10] [center=false] [pos=10 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 4 4  R 5 8.5] [center=false] [slide=true] [pos=23 -26 0] [ori=-0 1 0 -1 0 0 -0 0 1]

@@ -1,0 +1,12 @@
+0 LDCad shadow info for "Minifig Hair Bushy Swept Back"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=none described=0 estimated=2 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [0.0,0.0,0.0,0.0,1.0,0.0,6.25]
+0 !LDCAD SNAP_CYL [id=astud] [scale=YOnly] [mirror=cor] [gender=F] [caps=A] [secs=R 6 6.25] [center=false] [pos=0 -6.25 0] [ori=-1 0 0 -0 -1 0 -0 0 1]

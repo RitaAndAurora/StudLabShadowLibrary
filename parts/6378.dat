@@ -1,0 +1,26 @@
+0 LDCad shadow info for "Duplo Train Track Curved"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=6 studs=none antistuds=studlab
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=estimated
+0 //StudLab seat [660.0,11.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=660 11 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [526.933,11.0,327.321,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 4] [center=false] [pos=526.933 11 327.321] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrain] [gender=M] [bounding=sph 100] [center=false] [pos=640 0 0] [ori=-1 0 0 0 1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrain] [gender=F] [bounding=sph 100] [center=false] [pos=640 0 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrain] [gender=M] [bounding=sph 100] [center=false] [pos=554.253 0 320] [ori=0.866 0 -0.5 0 1 0 0.5 0 0.866]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrain] [gender=F] [bounding=sph 100] [center=false] [pos=554.253 0 320] [ori=-0.866 0 0.5 0 1 0 -0.5 0 -0.866]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrack] [gender=M] [bounding=pnt] [center=false] [pos=639.071 -9 0] [ori=1 0 0 0 -1 0 0 0 -1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrack] [gender=F] [bounding=pnt] [center=false] [pos=639.071 -9 0] [ori=-1 0 0 0 -1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrack] [gender=M] [bounding=pnt] [center=false] [pos=553.684 -9 319.092] [ori=-0.866 0 -0.5 0 -1 0 -0.5 0 0.866]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=duploTrack] [gender=F] [bounding=pnt] [center=false] [pos=553.684 -9 319.092] [ori=0.866 0 0.5 0 -1 0 0.5 0 -0.866]

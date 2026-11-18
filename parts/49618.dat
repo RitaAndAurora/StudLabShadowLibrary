@@ -1,0 +1,30 @@
+0 LDCad shadow info for "Slope Brick 33 8 x 1 x 3"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=own described=1 estimated=4 studs=shadow antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab studs from=primitives
+0 //StudLab seat [0.0,0.0,0.0,0.0,-1.0,0.0]
+0 !LDCAD SNAP_CYL [id=studc] [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 6 4] [center=false] [pos=0 0 0] [ori=0 0 1 0 1 0 -1 0 0]
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,72.0,-140.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -140] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-120.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -120] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-100.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -100] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-80.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-60.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-40.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -40] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,-20.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 -20] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,72.0,0.0,0.0,1.0,0.0,4.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=R 6 4] [center=false] [pos=0 72 0] [ori=1 0 0 0 1 0 0 0 1]

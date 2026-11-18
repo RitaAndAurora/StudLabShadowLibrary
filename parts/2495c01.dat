@@ -1,0 +1,21 @@
+0 LDCad shadow info for "Minifig Hand Truck (Complete)"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=1 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=2] [length=4] [center=true] [pos=-15 0 0] [ori=0 -1 0 -1 0 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 13] [center=false] [pos=-22 -58 -4] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 10] [center=false] [pos=-26 -62 -8] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 30] [center=false] [pos=-25.081 -53.255 -8] [ori=0.9781 -0.2079 0 -0.2079 -0.9781 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 13] [center=false] [pos=22 -58 -4] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 10] [center=false] [pos=26 -62 -8] [ori=0 0 -1 0 1 0 1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 4 30] [center=false] [pos=25.081 -53.255 -8] [ori=0.9781 0.2079 0 0.2079 -0.9781 0 0 0 -1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 2 11  R 4 14  R 2 11] [center=true] [pos=0 0 0] [ori=0 -1 0 1 0 0 0 0 1]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=tyre10] [gender=M] [bounding=cyl 10 24] [center=false] [pos=-22 0 0] [ori=0 1 0 -1 0 0 0 0 1]

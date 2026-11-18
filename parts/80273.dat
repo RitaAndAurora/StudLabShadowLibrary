@@ -1,0 +1,25 @@
+0 LDCad shadow info for "Technic Beam Propeller 5 Blade 9 Diameter with Square Hole"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -60] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=0 0 -40] [ori=0 0 1 0 1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=0 10 -80] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-57.064 0 -18.541] [ori=0.309 0 0.9511 0 1 0 -0.9511 0 0.309]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-38.042 0 -12.361] [ori=-0.9511 0 0.309 0 1 0 -0.309 0 -0.9511]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=-76.085 10 -24.722] [ori=0.309 0 0.9511 0 1 0 -0.9511 0 0.309]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-35.267 0 48.541] [ori=-0.809 0 0.5878 0 1 0 -0.5878 0 -0.809]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=-23.512 0 32.361] [ori=-0.5878 0 -0.809 0 1 0 0.809 0 -0.5878]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=-47.023 10 64.722] [ori=-0.809 0 0.5878 0 1 0 -0.5878 0 -0.809]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=35.267 0 48.541] [ori=-0.809 0 -0.5878 0 1 0 0.5878 0 -0.809]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=23.512 0 32.361] [ori=0.5878 0 -0.809 0 1 0 0.809 0 0.5878]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=47.023 10 64.722] [ori=-0.809 0 -0.5878 0 1 0 0.5878 0 -0.809]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=57.064 0 -18.541] [ori=0.309 0 -0.9511 0 1 0 0.9511 0 0.309]
+0 !LDCAD SNAP_CYL [id=connhole] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 8 2  R 6 16  R 8 2] [center=true] [slide=true] [pos=38.042 0 -12.361] [ori=0.9511 0 0.309 0 1 0 -0.309 0 0.9511]
+0 !LDCAD SNAP_CYL [id=axlehole] [scale=YOnly] [mirror=cor] [gender=F] [caps=none] [secs=A 6 20] [center=false] [slide=true] [pos=76.085 10 -24.722] [ori=0.309 0 -0.9511 0 1 0 0.9511 0 0.309]

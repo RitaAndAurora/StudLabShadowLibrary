@@ -1,0 +1,16 @@
+0 LDCad shadow info for "Hose Reel 1 x 4 x 1.667 Holder with Two Pins"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=2 studs=none antistuds=none
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=20 0 0] [ori=0 0 -1 0 -1 0 -1 0 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=one] [secs=R 8 2  R 6 16  _L 6.25 2] [center=false] [pos=-20 0 0] [ori=0 0 -1 0 -1 0 -1 0 0]
+
+0 //StudLab connections from=estimated
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 2  A 6 4  R 6 2  R 8 2.5] [center=true] [slide=true] [pos=20 5.25 0] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=none] [secs=R 6 2  A 6 4  R 6 2  R 8 2.5] [center=true] [slide=true] [pos=-20 5.25 0] [ori=1 0 0 0 1 0 0 0 1]

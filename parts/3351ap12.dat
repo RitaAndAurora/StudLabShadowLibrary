@@ -1,0 +1,20 @@
+0 LDCad shadow info for "Roadsign Triangular Type 1 with Ped. Crossing Type 2 Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=shadow printof=3351a.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=library
+0 //StudLab seat [0.0,8.0,-10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 6] [center=false] [pos=0 8 -10] [ori=1 0 0 0 1 0 0 0 1]
+0 //StudLab seat [0.0,8.0,10.0,0.0,1.0,0.0,6.0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=F] [caps=one] [secs=S 6 6] [center=false] [pos=0 8 10] [ori=1 0 0 0 1 0 0 0 1]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=stud3] [scale=YOnly] [mirror=cor] [gender=M] [caps=one] [secs=R 4 5] [center=false] [pos=0 2 0] [ori=-1 0 0 0 -1 0 0 0 1]
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [gender=M] [caps=two] [secs=R 6 8  R 4.5 56] [center=false] [pos=0 -2 0] [ori=1 0 0 0 1 0 0 0 1]

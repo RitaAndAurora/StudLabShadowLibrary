@@ -1,0 +1,20 @@
+0 LDCad shadow info for "Technic Windscreen 11 x 11 Motorcycle with Angled Pegholes"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=primitive described=0 estimated=0 studs=none antistuds=shadow
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab antistuds from=primitives
+0 //StudLab seat [79.24,-50.828,147.729,-0.8,-0.5,0.332]
+0 //StudLab seat [71.582,-50.828,129.253,-0.8,-0.5,0.332]
+0 //StudLab seat [-79.24,-50.828,147.729,0.8,-0.5,0.332]
+0 //StudLab seat [-71.582,-50.828,129.253,0.8,-0.5,0.332]
+
+0 //StudLab connections from=primitives
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=85.64 -46.828 145.076] [ori=-0.462 -0.8 0.3829 0.866 -0.5001 0 0.1915 0.3316 0.9238]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=77.982 -46.828 126.601] [ori=0.462 -0.8 -0.3829 -0.866 -0.5001 0 -0.1915 0.3316 -0.9238]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-85.64 -46.828 145.076] [ori=-0.462 0.8 -0.3829 -0.866 -0.5001 0 -0.1915 0.3316 0.9238]
+0 !LDCAD SNAP_CYL [id=connhol3] [scale=none] [mirror=cor] [gender=F] [caps=none] [secs=R 6 16  R 8 2] [center=true] [slide=true] [pos=-77.982 -46.828 126.601] [ori=0.462 0.8 0.3829 0.866 -0.5001 0 0.1915 0.3316 -0.9238]

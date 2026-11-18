@@ -1,0 +1,22 @@
+0 LDCad shadow info for "Figure Duplo Adult Male with Medium Blue Legs, Dark Red Top and Blue Baseball Cap Pattern"
+
+0 Author: StudLab
+0 !LICENSE CC BY-SA 4.0, see LICENSE.md
+
+0 //Made by StudLab from the LDraw library, the LDCad shadow library and StudLab's.
+0 //StudLab tier=subpart described=0 estimated=0 studs=none antistuds=none printof=63710.dat
+0 !LDCAD SNAP_CLEAR
+
+0 //StudLab connections from=library
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [group=dupFigHips] [gender=F] [caps=one] [secs=R 4 44] [center=true] [pos=0 -56 12] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigHips] [gender=M] [caps=one] [secs=R 4 44] [center=true] [pos=0 -56 12] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=dupFigTorso] [gender=M] [bounding=cube 20] [center=false] [pos=0 -72 12] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigArm] [gender=F] [caps=one] [secs=R 11 15] [center=false] [pos=-24 -90 12.5] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigArm] [gender=F] [caps=one] [secs=R 11 15] [center=false] [pos=24 -90 12.5] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigHead] [gender=M] [caps=one] [secs=R 12 13] [center=false] [pos=0 -103 14] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_GEN [scale=none] [mirror=none] [group=dupFigTorso] [gender=F] [bounding=cube 20] [center=false] [pos=0 -72 12] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigArm] [gender=M] [caps=one] [secs=R 11 15] [center=false] [pos=24 -90 12.5] [ori=0 1 0 -1 0 0 0 0 1]
+0 !LDCAD SNAP_CLP [scale=none] [mirror=none] [radius=6.5] [length=23] [center=true] [pos=48 -48 12.5] [ori=-1 0 0 0 0 -1 0 -1 0]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigArm] [gender=M] [caps=one] [secs=R 11 15] [center=false] [pos=-24 -90 12.5] [ori=0 -1 0 1 0 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=none] [group=dupFigHead] [gender=F] [caps=none] [secs=R 12 10  R 10 25  R 18 4] [center=false] [pos=0 -106 14] [ori=1 0 0 0 1 0 0 0 1]
+0 !LDCAD SNAP_CYL [scale=none] [mirror=cor] [group=dupFigHead] [gender=M] [caps=one] [secs=R 10 39] [center=false] [pos=0 -145 14] [ori=1 0 0 0 -1 0 0 0 -1]
